@@ -21,18 +21,17 @@
 <p><img src="./img/ykawai_profile.JPG" alt="ykawai_profile.JPG" align="right" height="350">
 #+END_HTML
 
-** 名前
-*河合 佑太*
+** (2018 年 10 月 01 日 更新)
 
-** 所属 (2018 年 8 月現在)
+*河合 佑太* 
 
-- 神戸大学大学院理学研究科 地球惑星科学専攻 地球および惑星大気科学研究室 (博士課程 3 年)
+*** 連絡先: ykawai (at) gfd-dennou.org
+*** 現所属 
+
+- 神戸大学大学院理学研究科 惑星学専攻 (理学研究科博士研究員)
 - 理化学研究所 計算科学研究機構 複合系気候科学研究チーム (研究パートタイマー)
 
-** 連絡先
-
-- ykawai (at) gfd-dennou.org
-
+** [[./profile.html][プロフィール]]
 
 #+BEGIN_HTML
 <br clear="right">
@@ -63,44 +62,8 @@
 - [[http://www.gfd-dennou.org/arch/prepri/2011/kobe-u/110212_ykawai-Bthesis/paper/pub/main.pdf][卒業論文: 準地衡風2層モデルを用いた中緯度大気循環の研究]]
 # - [[http://space.geocities.jp/bberrysoft/note_page.html][数値予報モデル構築のための気象力学と数値計算理論ノートの作成]]
 
-* 原著論文
 
-* 表彰, フェローシップ
-- 2018 年  3 月: 神戸大学 学生表彰
-- 2017 年 10 月: 地球電磁気・地球惑星圏学会 2017年度 秋季大会 学生発表賞
-- 2015 年  4 月 - 2018 年 3 月: 理化学研究所 大学院生リサーチ・アソシエイト
-
-* 学会発表, 研究発表
-** 2018 年度
-
-- _河合佑太_, 高橋芳幸, 石渡正樹, 西澤誠也, 竹広真一, 中島健介, 富田浩文, 林祥介, 2018: 海惑星気候の太陽定数依存性に関する数値的研究: 海洋熱容量と海洋熱輸送の効果, 日本地球惑星科学連合 2018 年大会, 2018 年 5 月 22 日, 幕張メッセ国際会議場 (講演番号 M-IS18)
-- _河合佑太_, 高橋芳幸, 石渡正樹, 西澤誠也, 竹広真一, 中島健介, 富田浩文, 林祥介, 2018: 海惑星気候の太陽定数増減実験: 海洋熱容量と海洋熱輸送の効果, 日本気象学会2018年度春季大会, 2018 年 5 月 18 日, 北海道大学 (講演番号 A302)
-
-** 2017 年度
-
-
-- _Kawai, Y._, Takahashi, Y. O., Ishiwatari, M., Nishizawa, S., Takehiro, S., Nakajima, K., Tomita, H., Hayashi, Y.-Y., 2018: A study on dependence of ocean planet climates on the solar constant: the effect of oceanic heat capacity and oceanic heat transport. CPS/WTK Mini-Workshop on Planetary Atmospheres II, 28th March 2018, CPS, Kobe University
-- 石渡正樹, _河合佑太_, 松田幸樹, 高橋芳幸, 中島健介, はしもとじょーじ, 倉本 圭, 杉山耕一朗, 小高 正嗣, 林 祥介, 2018: 地球型系外惑星気候のモデリングと数値実験, 第19回惑星圏研究会, 2018 年 2 月 28 日, 東北大学
-- _河合佑太_, 高橋芳幸, 石渡正樹, 西澤誠也, 竹広真一, 中島健介, 富田浩文, 林祥介, 2017: 全球海惑星の気候レジーム〜海洋大循環の効果〜, 日本気象学会2017年度秋季大会, 2017 年 10 月 30 日, 北海道大学 (講演番号 XXX)
-- _河合佑太_, 高橋芳幸, 石渡正樹, 西澤誠也, 竹広真一, 中島健介, 富田浩文, 林祥介, 2017: 全球海惑星気候の太陽定数増減依存性の研究: 海洋大循環の影響の検証, 地球電磁気・地球惑星圏学会 2017年度 秋季大会, 2017 年 10 月 XX 日, 京都大学宇治キャンパス (講演番号 XXX)
-- _河合佑太_, 高橋芳幸, 石渡正樹, 西澤誠也, 竹広真一, 中島健介, 富田浩文, 林祥介, 2017: 大気海洋海氷結合モデルを用いた全球海惑星気候の太陽定数依存性に関する研究, 日本惑星科学会 2017 年秋季講演会, 2017 年 9 月 XX 日, 大阪大学豊中キャンパス (講演番号 XXX)
-- _河合佑太_, 高橋芳幸, 石渡正樹, 西澤誠也, 竹広真一, 中島健介, 富田浩文, 林祥介, 2017: 大気海洋海氷結合モデルを用いた水惑星の気候に対する海洋大循環の影響の数値的研究, 日本地球惑星科学連合 2017 年大会, 2017 年 5 月 22 日, 幕張メッセ国際会議場 (講演番号 MGI32-XXX)
-
-** 2016 年度
-
-- _Kawai, Y._, Takahashi, Y. O., Ishiwatari, M., Nishizawa, S., Takehiro, S., Nakajima, K., Tomita, H., Hayashi, Y.-Y., 2017: Development of a coupled model to explore aquaplanet climates and aquaplanet simulation with zonally symmetric dynamic ocean. WTK Aquaplanet Workshop, 24th January 2017, CPS, Kobe University
-- _河合 佑太_, 高橋 芳幸, 石渡 正樹, 西澤 誠也, 竹広 真一, 中島 健介, 富田 浩文, 林 祥介, 2016: 大気海洋海氷結合モデルによる水惑星の気候の数値実験. 日本地球惑星科学連合 2016 年大会, 2016 年 5 月 24 日, 幕張メッセ国際会議場 (講演番号 MGI22-P10)
-- _河合佑太_, 高橋芳幸, 石渡正樹, 西澤誠也, 竹広真一, 中島健介, 富田浩文, 林祥介 2016: 大気海洋海氷結合モデルによる水惑星の気候シミュレーション. 惑星大気研究会「水惑星」, 2016 年 3 月 9 日, 国立天文台三鷹
-
-** 2015 年度
-
-- _Kawai, Y._, Takahashi, Y. O., ishiwatari, M., Nishizawa, S., Takehiro, S., Nakajima, K., Tomita, H., Hayashi, Y.-Y., 2016: Development of a coupled atmosphere-ocean-seaice model to explore aquaplanet climates, International Workshop on "Exoplanets and Disks: Their Formation and Diversity III", 22nd February 2016, Hotel Nikko Yaeyama
-- _Kawai, Y._, Takahashi, Y. O., Ishiwatari, M., Nishizawa, S., Takehiro, S., Nakajima, K., Tomita, H., Hayashi, Y.-Y., 2015: Development of ocean general circulation model to understand an aquaplanet climate and preliminary numerical experiment, RIKEN Summer School, Sep 4th 2015, Hotel Heritage, Shinrin-Koen, Japan.
-
-** 2014 年度
-
-- _河合佑太_, 2014: 惑星の気候状態の理解に向けた海洋モテル開発と予備的実験, 第 5 回サイエンスフロンティア研究発表会, 2014 年 10 月 25 日, 神戸大学
-
+* [[./publication.html][出版物, 発表]]
 
 * リンク
 

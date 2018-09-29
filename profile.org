@@ -1,0 +1,40 @@
+#+TITLE: プロフィール
+#+AUTHOR: KAWAI Yuta
+#+LANGUAGE: ja
+#+OPTIONS: toc:nil num:nil author:nil creator:nil LateX:t
+#+HTML_HEAD: <link rel="stylesheet" type="text/css" href="org.css">
+#+HTML_HEAD: <style type="text/css">
+#+HTML_HEAD:<!--/*--><![CDATA[/*><!--*/
+#+HTML_HEAD: div.figure { float:left; }
+#+HTML_HEAD: /*]]>*/-->
+#+HTML_HEAD: </style>
+#+MACRO: em @<font size=+1 color=red>$1@</font>
+# #+HTML_HEAD_EXTRA: <style> .figure p {text-align: right;}</style>
+# #+HTML_HEAD_EXTRA: <style type="text/css">div.org-src-container{border:1px solid green;width:50%;float:right;}</style>
+# #+HTML_HEAD_EXTRA: <style type="text/css">div.figure { float:left; } </style>
+
+
+[[./index.html][<Top ページに戻る>]]
+
+* 職歴
+
+*** ポスドク研究者
+ - 神戸大学 大学院理学研究科 惑星学専攻 博士研究員 (2018 年 10 月 - 現在)
+
+*** 研究アシスタント
+ - 理化学研究所 研究パートタイマー (2018 年 4 月 - 現在)
+ - 理化学研究所 大学院生リサーチ・アソシエイト (2015 年 4 月 - 2018 年 3 月)
+ - 神戸大学 RA (2013 年 4 月 - 2015 年 3 月, 2018 年 4 月 - 9 月)
+ 
+* 表彰, フェローシップ
+- 2018 年  3 月: 神戸大学 学生表彰
+- 2017 年 10 月: 地球電磁気・地球惑星圏学会 2017年度 秋季大会 学生発表賞
+- 2015 年  4 月 - 2018 年 3 月: 理化学研究所 大学院生リサーチ・アソシエイト
+
+* 学歴
+- 2018 年 9 月 神戸大学 大学院理学研究科 地球惑星科学専攻 後期課程 修了, 博士(理学)
+- 2013 年 4 月 神戸大学 大学院理学研究科 地球惑星科学専攻　後期課程 進学
+- 2013 年 3 月 神戸大学 大学院理学研究科 地球惑星科学専攻　前期課程 修了, 修士(理学)
+- 2011 年 4 月 神戸大学 大学院理学研究科 地球惑星科学専攻　前期課程 入学
+- 2011 年 3 月 神戸大学 理学部 地球惑星科学科 卒業, 学士(理学)
+- 2007 年 4 月 神戸大学 理学部 地球惑星科学科 入学
