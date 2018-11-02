@@ -21,16 +21,16 @@
 <p><img src="./img/ykawai_profile.JPG" alt="ykawai_profile.JPG" align="right" height="350">
 #+END_HTML
 
-** (2018 年 10 月 01 日 更新)
+** (2018 年 11 月 02 日 更新)
 
 *河合 佑太* 
 
 *** 連絡先: ykawai (at) gfd-dennou.org
 *** 現所属 
 
-- 神戸大学大学院理学研究科 惑星学専攻 (理学研究科博士研究員)
+- 神戸大学大学院理学研究科 惑星学専攻 (学術研究員)
 - 理化学研究所 計算科学研究機構 複合系気候科学研究チーム (研究パートタイマー)
-
+ 
 ** [[./profile.html][プロフィール]]
 
 #+BEGIN_HTML
