@@ -1,7 +1,7 @@
 #+TITLE: Yuta Kawai のページ
 #+AUTHOR: KAWAI Yuta
 #+LANGUAGE: ja
-#+OPTIONS: toc:nil num:nil author:nil creator:nil LateX:t
+#+OPTIONS: toc:nil num:nil author:nil creator:nil LateX:t ^:nil
 #+HTML_HEAD: <link rel="stylesheet" type="text/css" href="org.css">
 #+HTML_HEAD: <style type="text/css">
 #+HTML_HEAD:<!--/*--><![CDATA[/*><!--*/
@@ -17,9 +17,9 @@
 # #+ATTR_HTML: :class align-right
 # [[file:./img/ykawai_profile.JPG]]
 
-#+BEGIN_HTML
+#+BEGIN_EXPORT HTML
 <p><img src="./img/ykawai_profile.JPG" alt="ykawai_profile.JPG" align="right" height="350">
-#+END_HTML
+#+END_EXPORT
 
 ** (2019 年 6 月 18 日 更新)
 
