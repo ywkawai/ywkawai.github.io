@@ -3,22 +3,29 @@
 "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml" lang="ja" xml:lang="ja">
 <head>
+<!-- 2019-06-18 火 13:45 -->
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
 <title>Yuta Kawai のページ</title>
-<!-- 2018-11-02 金 15:40 -->
-<meta  http-equiv="Content-Type" content="text/html;charset=utf-8" />
-<meta  name="generator" content="Org-mode" />
+<meta name="generator" content="Org mode" />
 <style type="text/css">
  <!--/*--><![CDATA[/*><!--*/
-  .title  { text-align: center; }
+  .title  { text-align: center;
+             margin-bottom: .2em; }
+  .subtitle { text-align: center;
+              font-size: medium;
+              font-weight: bold;
+              margin-top:0; }
   .todo   { font-family: monospace; color: red; }
-  .done   { color: green; }
+  .done   { font-family: monospace; color: green; }
+  .priority { font-family: monospace; color: orange; }
   .tag    { background-color: #eee; font-family: monospace;
             padding: 2px; font-size: 80%; font-weight: normal; }
   .timestamp { color: #bebebe; }
   .timestamp-kwd { color: #5f9ea0; }
-  .right  { margin-left: auto; margin-right: 0px;  text-align: right; }
-  .left   { margin-left: 0px;  margin-right: auto; text-align: left; }
-  .center { margin-left: auto; margin-right: auto; text-align: center; }
+  .org-right  { margin-left: auto; margin-right: 0px;  text-align: right; }
+  .org-left   { margin-left: 0px;  margin-right: auto; text-align: left; }
+  .org-center { margin-left: auto; margin-right: auto; text-align: center; }
   .underline { text-decoration: underline; }
   #postamble p, #preamble p { font-size: 90%; margin: .2em; }
   p.verse { margin-left: 3%; }
@@ -45,27 +52,111 @@
     border: 1px solid black;
   }
   pre.src:hover:before { display: inline;}
-  pre.src-sh:before    { content: 'sh'; }
-  pre.src-bash:before  { content: 'sh'; }
+  /* Languages per Org manual */
+  pre.src-asymptote:before { content: 'Asymptote'; }
+  pre.src-awk:before { content: 'Awk'; }
+  pre.src-C:before { content: 'C'; }
+  /* pre.src-C++ doesn't work in CSS */
+  pre.src-clojure:before { content: 'Clojure'; }
+  pre.src-css:before { content: 'CSS'; }
+  pre.src-D:before { content: 'D'; }
+  pre.src-ditaa:before { content: 'ditaa'; }
+  pre.src-dot:before { content: 'Graphviz'; }
+  pre.src-calc:before { content: 'Emacs Calc'; }
   pre.src-emacs-lisp:before { content: 'Emacs Lisp'; }
-  pre.src-R:before     { content: 'R'; }
-  pre.src-perl:before  { content: 'Perl'; }
-  pre.src-java:before  { content: 'Java'; }
-  pre.src-sql:before   { content: 'SQL'; }
+  pre.src-fortran:before { content: 'Fortran'; }
+  pre.src-gnuplot:before { content: 'gnuplot'; }
+  pre.src-haskell:before { content: 'Haskell'; }
+  pre.src-hledger:before { content: 'hledger'; }
+  pre.src-java:before { content: 'Java'; }
+  pre.src-js:before { content: 'Javascript'; }
+  pre.src-latex:before { content: 'LaTeX'; }
+  pre.src-ledger:before { content: 'Ledger'; }
+  pre.src-lisp:before { content: 'Lisp'; }
+  pre.src-lilypond:before { content: 'Lilypond'; }
+  pre.src-lua:before { content: 'Lua'; }
+  pre.src-matlab:before { content: 'MATLAB'; }
+  pre.src-mscgen:before { content: 'Mscgen'; }
+  pre.src-ocaml:before { content: 'Objective Caml'; }
+  pre.src-octave:before { content: 'Octave'; }
+  pre.src-org:before { content: 'Org mode'; }
+  pre.src-oz:before { content: 'OZ'; }
+  pre.src-plantuml:before { content: 'Plantuml'; }
+  pre.src-processing:before { content: 'Processing.js'; }
+  pre.src-python:before { content: 'Python'; }
+  pre.src-R:before { content: 'R'; }
+  pre.src-ruby:before { content: 'Ruby'; }
+  pre.src-sass:before { content: 'Sass'; }
+  pre.src-scheme:before { content: 'Scheme'; }
+  pre.src-screen:before { content: 'Gnu Screen'; }
+  pre.src-sed:before { content: 'Sed'; }
+  pre.src-sh:before { content: 'shell'; }
+  pre.src-sql:before { content: 'SQL'; }
+  pre.src-sqlite:before { content: 'SQLite'; }
+  /* additional languages in org.el's org-babel-load-languages alist */
+  pre.src-forth:before { content: 'Forth'; }
+  pre.src-io:before { content: 'IO'; }
+  pre.src-J:before { content: 'J'; }
+  pre.src-makefile:before { content: 'Makefile'; }
+  pre.src-maxima:before { content: 'Maxima'; }
+  pre.src-perl:before { content: 'Perl'; }
+  pre.src-picolisp:before { content: 'Pico Lisp'; }
+  pre.src-scala:before { content: 'Scala'; }
+  pre.src-shell:before { content: 'Shell Script'; }
+  pre.src-ebnf2ps:before { content: 'ebfn2ps'; }
+  /* additional language identifiers per "defun org-babel-execute"
+       in ob-*.el */
+  pre.src-cpp:before  { content: 'C++'; }
+  pre.src-abc:before  { content: 'ABC'; }
+  pre.src-coq:before  { content: 'Coq'; }
+  pre.src-groovy:before  { content: 'Groovy'; }
+  /* additional language identifiers from org-babel-shell-names in
+     ob-shell.el: ob-shell is the only babel language using a lambda to put
+     the execution function name together. */
+  pre.src-bash:before  { content: 'bash'; }
+  pre.src-csh:before  { content: 'csh'; }
+  pre.src-ash:before  { content: 'ash'; }
+  pre.src-dash:before  { content: 'dash'; }
+  pre.src-ksh:before  { content: 'ksh'; }
+  pre.src-mksh:before  { content: 'mksh'; }
+  pre.src-posh:before  { content: 'posh'; }
+  /* Additional Emacs modes also supported by the LaTeX listings package */
+  pre.src-ada:before { content: 'Ada'; }
+  pre.src-asm:before { content: 'Assembler'; }
+  pre.src-caml:before { content: 'Caml'; }
+  pre.src-delphi:before { content: 'Delphi'; }
+  pre.src-html:before { content: 'HTML'; }
+  pre.src-idl:before { content: 'IDL'; }
+  pre.src-mercury:before { content: 'Mercury'; }
+  pre.src-metapost:before { content: 'MetaPost'; }
+  pre.src-modula-2:before { content: 'Modula-2'; }
+  pre.src-pascal:before { content: 'Pascal'; }
+  pre.src-ps:before { content: 'PostScript'; }
+  pre.src-prolog:before { content: 'Prolog'; }
+  pre.src-simula:before { content: 'Simula'; }
+  pre.src-tcl:before { content: 'tcl'; }
+  pre.src-tex:before { content: 'TeX'; }
+  pre.src-plain-tex:before { content: 'Plain TeX'; }
+  pre.src-verilog:before { content: 'Verilog'; }
+  pre.src-vhdl:before { content: 'VHDL'; }
+  pre.src-xml:before { content: 'XML'; }
+  pre.src-nxml:before { content: 'XML'; }
+  /* add a generic configuration mode; LaTeX export needs an additional
+     (add-to-list 'org-latex-listings-langs '(conf " ")) in .emacs */
+  pre.src-conf:before { content: 'Configuration File'; }
 
   table { border-collapse:collapse; }
   caption.t-above { caption-side: top; }
   caption.t-bottom { caption-side: bottom; }
   td, th { vertical-align:top;  }
-  th.right  { text-align: center;  }
-  th.left   { text-align: center;   }
-  th.center { text-align: center; }
-  td.right  { text-align: right;  }
-  td.left   { text-align: left;   }
-  td.center { text-align: center; }
+  th.org-right  { text-align: center;  }
+  th.org-left   { text-align: center;   }
+  th.org-center { text-align: center; }
+  td.org-right  { text-align: right;  }
+  td.org-left   { text-align: left;   }
+  td.org-center { text-align: center; }
   dt { font-weight: bold; }
-  .footpara:nth-child(2) { display: inline; }
-  .footpara { display: block; }
+  .footpara { display: inline; }
   .footdef  { margin-bottom: 1em; }
   .figure { padding: 1em; }
   .figure p { text-align: center; }
@@ -85,6 +176,7 @@
     { font-size: 10px; font-weight: bold; white-space: nowrap; }
   .org-info-js_search-highlight
     { background-color: #ffff00; color: #000000; font-weight: bold; }
+  .org-svg { width: 90%; }
   /*]]>*/-->
 </style>
 <link rel="stylesheet" type="text/css" href="org.css">
@@ -98,7 +190,7 @@ div.figure { float:left; }
 @licstart  The following is the entire license notice for the
 JavaScript code in this tag.
 
-Copyright (C) 2012-2013 Free Software Foundation, Inc.
+Copyright (C) 2012-2018 Free Software Foundation, Inc.
 
 The JavaScript code in this tag is free software: you can
 redistribute it and/or modify it under the terms of the GNU
@@ -143,123 +235,114 @@ for the JavaScript code in this tag.
 <body>
 <div id="content">
 <h1 class="title">Yuta Kawai のページ</h1>
-<p><img src="./img/ykawai_profile.JPG" alt="ykawai_profile.JPG" align="right" height="350">
+<div class="HTML">
+<p>
+&lt;p&gt;&lt;img src="./img/ykawai<sub>profile.JPG</sub>" alt="ykawai<sub>profile.JPG</sub>" align="right" height="350"&gt;
+</p>
 
-<div id="outline-container-sec-0-1" class="outline-3">
-<h3 id="sec-0-1">(2018 年 11 月 02 日 更新)</h3>
-<div class="outline-text-3" id="text-0-1">
+</div>
+
+<div id="outline-container-org4590b24" class="outline-3">
+<h3 id="org4590b24">(2019 年 6 月 18 日 更新)</h3>
+<div class="outline-text-3" id="text-org4590b24">
 <p>
 <b>河合 佑太</b> 
 </p>
 </div>
 
-<div id="outline-container-sec-0-1-1" class="outline-4">
-<h4 id="sec-0-1-1">連絡先: ykawai (at) gfd-dennou.org</h4>
+<div id="outline-container-orgc12df95" class="outline-4">
+<h4 id="orgc12df95">連絡先: ykawai (at) gfd-dennou.org</h4>
 </div>
-<div id="outline-container-sec-0-1-2" class="outline-4">
-<h4 id="sec-0-1-2">現所属</h4>
-<div class="outline-text-4" id="text-0-1-2">
+<div id="outline-container-org0aebf67" class="outline-4">
+<h4 id="org0aebf67">現所属</h4>
+<div class="outline-text-4" id="text-org0aebf67">
 <ul class="org-ul">
-<li>神戸大学大学院理学研究科 惑星学専攻 (学術研究員)
-</li>
-<li>理化学研究所 計算科学研究機構 複合系気候科学研究チーム (研究パートタイマー)
-</li>
+<li>神戸大学大学院理学研究科 惑星学専攻 (学術研究員)</li>
+<li>理化学研究所 計算科学研究機構 複合系気候科学研究チーム (研究パートタイマー)</li>
 </ul>
 </div>
 </div>
 </div>
 
-<div id="outline-container-sec-0-2" class="outline-3">
-<h3 id="sec-0-2"><a href="./profile.html">プロフィール</a></h3>
-<div class="outline-text-3" id="text-0-2">
-<br clear="right">
+<div id="outline-container-org8b2c93c" class="outline-3">
+<h3 id="org8b2c93c"><a href="./profile.html">プロフィール</a></h3>
+<div class="outline-text-3" id="text-org8b2c93c">
+<div class="HTML">
+<p>
+&lt;br clear="right"&gt;
+</p>
+
+</div>
 </div>
 </div>
 
-<div id="outline-container-sec-1" class="outline-2">
-<h2 id="sec-1">研究テーマ</h2>
-<div class="outline-text-2" id="text-1">
+<div id="outline-container-orge58cafe" class="outline-2">
+<h2 id="orge58cafe">研究テーマ</h2>
+<div class="outline-text-2" id="text-orge58cafe">
 <ul class="org-ul">
-<li>惑星気候モデルの開発
-</li>
+<li>惑星気候モデルの開発</li>
 <li>大気海洋海氷結合モデルを用いた惑星気候の数値シミュレーション
 <ul class="org-ul">
-<li>海惑星気候の太陽定数依存性の研究
-</li>
-</ul>
-</li>
+<li>海惑星気候の太陽定数依存性の研究</li>
+</ul></li>
 </ul>
 </div>
 
-
-<div id="outline-container-sec-1-1" class="outline-3">
-<h3 id="sec-1-1">博士課程</h3>
-<div class="outline-text-3" id="text-1-1">
+<div id="outline-container-orgdfe5729" class="outline-3">
+<h3 id="orgdfe5729">博士課程</h3>
+<div class="outline-text-3" id="text-orgdfe5729">
 <ul class="org-ul">
-<li><a href="https://github.com/gfd-dennou-club/Dennou-OGCM">海洋大循環モデル・海氷モデルの開発</a>
-</li>
-<li><a href="https://github.com/gfd-dennou-club/Dennou-CCM">大気海洋海氷結合モデルの開発</a>
-</li>
-<li><a href="https://www.gfd-dennou.org/GFD_Dennou_Club/dc-arch/prepri/2018/kobe-u/ykawai_Dthesis/paper/src/dthesis_ja_main_latest.pdf">博士論文: 大気海洋海氷結合モデルの開発と海惑星気候に対する海洋大循環の影響に関する数値実験 (すいません.. 投稿論文準備中のため電脳関係者のみ閲覧可能)</a>
-</li>
-<li>領域非静力学大気モデル SCALE の流体スキームの拡充
-</li>
+<li><a href="https://github.com/gfd-dennou-club/Dennou-OGCM">海洋大循環モデル・海氷モデルの開発</a></li>
+<li><a href="https://github.com/gfd-dennou-club/Dennou-CCM">大気海洋海氷結合モデルの開発</a></li>
+<li><a href="https://www.gfd-dennou.org/GFD_Dennou_Club/dc-arch/prepri/2018/kobe-u/ykawai_Dthesis/paper/src/dthesis_ja_main_latest.pdf">博士論文: 大気海洋海氷結合モデルの開発と海惑星気候に対する海洋大循環の影響に関する数値実験 (すいません.. 投稿論文準備中のため電脳関係者のみ閲覧可能)</a></li>
+<li>領域非静力学大気モデル SCALE の流体スキームの拡充</li>
 </ul>
 </div>
 </div>
 
-<div id="outline-container-sec-1-2" class="outline-3">
-<h3 id="sec-1-2">修士課程</h3>
-<div class="outline-text-3" id="text-1-2">
+<div id="outline-container-orgb77af31" class="outline-3">
+<h3 id="orgb77af31">修士課程</h3>
+<div class="outline-text-3" id="text-orgb77af31">
 <ul class="org-ul">
-<li><a href="http://www.gfd-dennou.org/arch/prepri/2013/kobe-u/130208_ykawai_Mthesis/paper/pub/main.pdf">修士論文: 高精度有限体積法による非静力学惑星大気循環モデルの開発</a>
-</li>
-<li>立方球面格子による大気モデル(力学コア)の開発
-</li>
-<li><a href="https://www.gfd-dennou.org/member/ykawai/work/IGModel.htm">正二十面体格子による大気モデル(力学コア)の開発</a>
-</li>
+<li><a href="http://www.gfd-dennou.org/arch/prepri/2013/kobe-u/130208_ykawai_Mthesis/paper/pub/main.pdf">修士論文: 高精度有限体積法による非静力学惑星大気循環モデルの開発</a></li>
+<li>立方球面格子による大気モデル(力学コア)の開発</li>
+<li><a href="https://www.gfd-dennou.org/member/ykawai/work/IGModel.htm">正二十面体格子による大気モデル(力学コア)の開発</a></li>
 </ul>
 </div>
 </div>
 
-<div id="outline-container-sec-1-3" class="outline-3">
-<h3 id="sec-1-3">B4</h3>
-<div class="outline-text-3" id="text-1-3">
+<div id="outline-container-orgb1fbed4" class="outline-3">
+<h3 id="orgb1fbed4">B4</h3>
+<div class="outline-text-3" id="text-orgb1fbed4">
 <ul class="org-ul">
-<li><a href="http://www.gfd-dennou.org/arch/prepri/2011/kobe-u/110212_ykawai-Bthesis/paper/pub/main.pdf">卒業論文: 準地衡風2層モデルを用いた中緯度大気循環の研究</a>
-</li>
+<li><a href="http://www.gfd-dennou.org/arch/prepri/2011/kobe-u/110212_ykawai-Bthesis/paper/pub/main.pdf">卒業論文: 準地衡風2層モデルを用いた中緯度大気循環の研究</a></li>
 </ul>
 </div>
 </div>
 </div>
 
 
-<div id="outline-container-sec-2" class="outline-2">
-<h2 id="sec-2"><a href="./publication.html">出版物, 発表</a></h2>
+<div id="outline-container-org61350ba" class="outline-2">
+<h2 id="org61350ba"><a href="./publication.html">出版物, 発表</a></h2>
 </div>
 
-<div id="outline-container-sec-3" class="outline-2">
-<h2 id="sec-3">リンク</h2>
-<div class="outline-text-2" id="text-3">
+<div id="outline-container-orgd93649d" class="outline-2">
+<h2 id="orgd93649d">リンク</h2>
+<div class="outline-text-2" id="text-orgd93649d">
 <ul class="org-ul">
 <li><a href="https://www.gfd-dennou.org">地球流体電脳倶楽部</a>
 <ul class="org-ul">
-<li><a href="https://www.gfd-dennou.org/library/dcmodel/">dcmodel プロジェクト</a>
-</li>
-</ul>
-</li>
-<li><a href="https://epa.scitec.kobe-u.ac.jp">神戸大学 地球および惑星大気科学研究室(流体地球物理学教育研究分野)</a>
-</li>
-<li><a href="http://r-ccs-climate.riken.jp/top.htm">理化学研究所 計算科学研究機構 複合系気候科学研究チーム</a>
-</li>
-<li><a href="http://www.gfd-dennou.org/arch/ykawai/work/Dennou-OGCM/model/sogcm/misc/">Kawai Work 関連資料</a>
-</li>
+<li><a href="https://www.gfd-dennou.org/library/dcmodel/">dcmodel プロジェクト</a></li>
+</ul></li>
+<li><a href="https://epa.scitec.kobe-u.ac.jp">神戸大学 地球および惑星大気科学研究室(流体地球物理学教育研究分野)</a></li>
+<li><a href="http://r-ccs-climate.riken.jp/top.htm">理化学研究所 計算科学研究機構 複合系気候科学研究チーム</a></li>
+<li><a href="http://www.gfd-dennou.org/arch/ykawai/work/Dennou-OGCM/model/sogcm/misc/">Kawai Work 関連資料</a></li>
 </ul>
 </div>
 </div>
 </div>
 <div id="postamble" class="status">
-<p class="date">Created: 2018-11-02 金 15:40</p>
+<p class="date">Created: 2019-06-18 火 13:45</p>
 <p class="validation"><a href="http://validator.w3.org/check?uri=referer">Validate</a></p>
 </div>
 </body>
