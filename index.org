@@ -33,9 +33,9 @@
  
 ** [[./profile.html][プロフィール]]
 
-#+BEGIN_HTML
+#+BEGIN_EXPORT HTML
 <br clear="right">
-#+END_HTML
+#+END_EXPORT
 
 * 研究テーマ
 
