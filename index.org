@@ -1,7 +1,7 @@
 #+TITLE: Yuta Kawai のページ
 #+AUTHOR: KAWAI Yuta
 #+LANGUAGE: ja
-#+OPTIONS: toc:nil num:nil author:nil creator:nil LateX:t ^:nil
+#+OPTIONS: toc:nil num:nil author:nil creator:nil LateX:t ^:nil \n:t
 #+HTML_HEAD: <link rel="stylesheet" type="text/css" href="org.css">
 #+HTML_HEAD: <style type="text/css">
 #+HTML_HEAD:<!--/*--><![CDATA[/*><!--*/
@@ -21,15 +21,15 @@
 <p><img src="./img/ykawai_profile.JPG" alt="ykawai_profile.JPG" align="right" height="350">
 #+END_EXPORT
 
-** (2019 年 8 月 7 日 更新)
+** (2019 年 9 月 1 日 更新)
 
 *河合 佑太* 
 
 *** 連絡先: ykawai (at) gfd-dennou.org
 *** 現所属 
 
-- 神戸大学大学院理学研究科 惑星学専攻 (学術研究員)
-- 理化学研究所 計算科学研究機構 複合系気候科学研究チーム (研究パートタイマー)
+理化学研究所 計算科学研究センター  
+アプリケーション開発チーム (兼 複合系気候科学研究チーム) 特別研究員
  
 ** [[./profile.html][プロフィール]]
 
