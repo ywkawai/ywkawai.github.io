@@ -21,7 +21,7 @@
 <p><img src="./img/ykawai_profile.JPG" alt="ykawai_profile.JPG" align="right" height="350">
 #+END_EXPORT
 
-** (2019 年 9 月 1 日 更新)
+** (2019 年 11 月 14 日 更新)
 
 *河合 佑太* 
 
@@ -42,7 +42,8 @@
 - 惑星気候モデルの開発
 - 大気海洋海氷結合モデルを用いた惑星気候シミュレーション
  - 海惑星気候の太陽定数依存性の研究
-- 次世代気象気候モデルを念頭にした力学コアの開発
+- 次世代気象気候モデルを念頭にした力学コア開発
+ - [[https://github.com/ywkawai/FE-Project][FE-Project]]: 不連続ガラーキン法を用いた流体計算のためのライブラリ
 
 ** 博士課程
 
@@ -68,7 +69,7 @@
 * リンク
 
 - [[https://www.gfd-dennou.org][地球流体電脳倶楽部]]
-  - [[https://www.gfd-dennou.org/library/dcmodel/][dcmodel プロジェクト]]
+  - [[https://www.gfd-dennou.org/library/dcmodel/][dcmodel プロジェクト]
 - [[https://epa.scitec.kobe-u.ac.jp][神戸大学 地球および惑星大気科学研究室(流体地球物理学教育研究分野)]]
 - [[http://r-ccs-climate.riken.jp/top.htm][理化学研究所 計算科学研究機構 複合系気候科学研究チーム]]
 - [[http://www.gfd-dennou.org/arch/ykawai/work/Dennou-OGCM/model/sogcm/misc/][Kawai Work 関連資料]]
