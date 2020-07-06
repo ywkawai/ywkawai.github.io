@@ -21,7 +21,7 @@
 <p><img src="./img/ykawai_profile.JPG" alt="ykawai_profile.JPG" align="right" height="350">
 #+END_EXPORT
 
-** (2019 年 11 月 14 日 更新)
+** (2020 年 7 月 6 日 更新)
 
 *河合 佑太* 
 
@@ -68,8 +68,8 @@
 
 * リンク
 
-- [[https://www.gfd-dennou.org][地球流体電脳倶楽部]]
-  - [[https://www.gfd-dennou.org/library/dcmodel/][dcmodel プロジェクト]
-- [[https://epa.scitec.kobe-u.ac.jp][神戸大学 地球および惑星大気科学研究室(流体地球物理学教育研究分野)]]
 - [[http://r-ccs-climate.riken.jp/top.htm][理化学研究所 計算科学研究機構 複合系気候科学研究チーム]]
+- [[https://www.gfd-dennou.org][地球流体電脳倶楽部]]
+  - [[https://www.gfd-dennou.org/library/dcmodel/][dcmodel プロジェクト]]
+- [[https://epa.scitec.kobe-u.ac.jp][神戸大学 地球および惑星大気科学研究室(流体地球物理学教育研究分野)]]
 - [[http://www.gfd-dennou.org/arch/ykawai/work/Dennou-OGCM/model/sogcm/misc/][Kawai Work 関連資料]]
