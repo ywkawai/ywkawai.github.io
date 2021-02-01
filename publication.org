@@ -22,12 +22,12 @@
 
 * 投稿中の論文
 - _Yuta Kawai_ and Hirofumi Tomita: Numerical Accuracy of Advection Scheme necessary for Large-Eddy Simulation of Planetary Boundary Layer Turbulence, MWR, under review
-- Masaki Ishiwatari, Kensuke Nakajima, Shin-Ichi Takehiro, Yoshi-Yuki Hayashi, _Yuta Kawai_, Yoshiyuki. O. Takahashi: Revision of “Dependence of climate states of gray atmosphere on solar constant: From the runaway greenhouse to the snowball stae" by Ishiwatari et al. (2007), JGR Atmosphere, under review
+- Masaki Ishiwatari, Kensuke Nakajima, Shin-ichi Takehiro, Yoshi-Yuki Hayashi, _Yuta Kawai_, Yoshiyuki O. Takahashi: Revision of “Dependence of climate states of gray atmosphere on solar constant: From the runaway greenhouse to the snowball stae" by Ishiwatari et al. (2007), JGR Atmosphere, under review
 
 * 学会発表, 研究発表
 ** 2020 年度
 - _河合佑太_, 富田浩文, 2020: 大気境界層LESにおける高精度力学コアの必要性について, 第1回雲解像気候学ワークショップ, 2020 年 12 月 23 日
-- _河合佑太_, 富田浩文, 2020: 全球LESに向けた力学コアの必要性度に関する研究, NICAM 開発者会議, 2020 年12月1日
+- _河合佑太_, 富田浩文, 2020: 全球LESに向けた力学コアの必要性度に関する研究, NICAM 開発者会議, 2020 年 12 月 1 日
 - _河合佑太_, 富田浩文, 2020: ラージエディシミュレーションで必要とされる力学コアの離散精度に関する研究, 日本気象学会 2020 年度秋季大会, 2020 年 10 月 29 日 (講演番号 BL-01+)
 - _河合佑太_, 富田浩文, 2020: ラージエディシミュレーションに必要とされる大気力学コアの数値精度に関する研究, 日本地球惑星科学連合 2020 年大会, 2020 年 7 月 14 日 (COVID-19 によりオンラインによる大会開催)
 - _河合佑太_, 富田浩文, 2020: ラージエディシミュレーションにおける力学コアの高精度化の必要性に関する考察, 日本気象学会 2020 年度春季大会, 2020 年 5 月 22 日 (講演番号 C406) (COVID-19 により予稿集発行による大会開催)
