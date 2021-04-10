@@ -16,13 +16,16 @@
 [[./index.html][<Top ページに戻る>]]
 
 * 原著論文
+
 ** 筆頭論文 
 ** 共著論文
+- Masaki Ishiwatari, Kensuke Nakajima, Shin-ichi Takehiro, Yoshi-Yuki Hayashi, _Yuta Kawai_, Yoshiyuki O. Takahashi: Revision of “Dependence of climate states of gray atmosphere on solar constant: From the runaway greenhouse to the snowball stae" by Ishiwatari et al. (2021), JGR Atmosphere, accepted
 - Hisashi Yashiro, Koji Terasaki, _Yuta Kawai_, Shuhei Kudo, Takemasa Miyoshi, Toshiyuki Imamura, Kazuo Minami, Hikaru Inoue, Tatsuo Nishiki, Takayuki Saji, Masaki Satoh, Hirofumi Tomita, 2020: A 1024-member ensemble data assimilation with 3.5-km mesh global weather simulations.  In 2020 SC20: International Conference for High Performance Computing, Networking, Storage and Analysis (SC) (pp. 1-10). IEEE Computer Society.
-
-* 投稿中の論文
-- _Yuta Kawai_ and Hirofumi Tomita: Numerical Accuracy of Advection Scheme necessary for Large-Eddy Simulation of Planetary Boundary Layer Turbulence, MWR, under review
-- Masaki Ishiwatari, Kensuke Nakajima, Shin-ichi Takehiro, Yoshi-Yuki Hayashi, _Yuta Kawai_, Yoshiyuki O. Takahashi: Revision of “Dependence of climate states of gray atmosphere on solar constant: From the runaway greenhouse to the snowball stae" by Ishiwatari et al. (2007), JGR Atmosphere, under review
+** 投稿中の論文
+- _Yuta Kawai_ and Hirofumi Tomita: Numerical Accuracy of Advection Scheme necessary for Large-Eddy Simulation of Planetary Boundary Layer Turbulence, Monthly Weather Review, under review
+** 投稿準備の論文
+- _Yuta Kawai_, Yoshi-Yuki Hayashi, Masaki Ishiwatari, Kensuke Nakajima, Shin-ichi Takehiro, Hirofumi Tomita, Yoshi-Yuki Hayashi: Solar constant dependence of climate states of an ocean planet with gray atmosphere: Effects of heat capacity and heat transport of the ocean, in preparation 
+ 
 
 
 * 学会発表, 研究発表
