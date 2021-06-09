@@ -79,7 +79,7 @@
 
 * その他
 ** 2020 年度
-- Masaki Ishiwatari, Kensuke Nakajima, Shin-ichi Takehiro, _Yuta Kawai_, Yoshiyuki O. Takahashi, George L. Hashimoto, Youhei Sasaki, Yoshi-Yuki Hayashi, 2021: Numerical studies on the variety of climates of exoplanets using idealistic configurations, CGER’S SUPERCOMPUTER MONOGRAPH REPORT Vol.2
+- Masaki Ishiwatari, Kensuke Nakajima, Shin-ichi Takehiro, _Yuta Kawai_, Yoshiyuki O. Takahashi, George L. Hashimoto, Youhei Sasaki, Yoshi-Yuki Hayashi, 2021: Numerical studies on the variety of climates of exoplanets using idealistic configurations, CGER’S SUPERCOMPUTER MONOGRAP REPORT Vol.27
 
 ** 2019 年度
 - 石渡正樹, 中島健介, 林祥介, _河合佑太_: 系外惑星も含めた地球型惑星の気候多様性の関する数値実験:大きな赤道傾斜角をもつ惑星の気候. 国立環境研究所スーパーコンピ ュータ利用研究年報 平成 30 年度
