@@ -21,7 +21,7 @@
 <p><img src="./img/ykawai_profile.JPG" alt="ykawai_profile.JPG" align="right" height="350">
 #+END_EXPORT
 
-** (2021 年 6 月 14 日 更新)
+** (2021 年 6 月 15 日 更新)
 
 *河合 佑太* 
 
@@ -42,6 +42,7 @@
 - 次世代気象気候モデルを念頭にした力学コアの高度化
  - 全球ラージ・エディ・シミュレーションに向けた力学コアの必要精度に関する研究
  - [[https://ywkawai.github.io/FE-Project_web/][FE-Project]]: 不連続ガラーキン法を用いた流体計算ライブラリ, 大気モデルの構築
+ - [[https://scale.riken.jp][SCALE]] の流体スキームの拡充
 
 - 惑星気候モデルの開発
 - 大気海洋海氷結合モデルを用いた惑星気候シミュレーション
@@ -71,6 +72,7 @@
 * リンク
 
 - [[http://r-ccs-climate.riken.jp/top.htm][理化学研究所 計算科学研究機構 複合系気候科学研究チーム]]
+- [[https://scale.riken.jp][Scalable Computing for Advanced Library and Environment (SCALE)]]
 - [[https://www.gfd-dennou.org][地球流体電脳倶楽部]]
   - [[https://www.gfd-dennou.org/library/dcmodel/][dcmodel プロジェクト]]
 - [[https://epa.scitec.kobe-u.ac.jp][神戸大学 地球および惑星大気科学研究室(流体地球物理学教育研究分野)]]
