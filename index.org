@@ -21,11 +21,11 @@
 <p><img src="./img/ykawai_profile.JPG" alt="ykawai_profile.JPG" align="right" height="350">
 #+END_EXPORT
 
-** (2021 年 6 月 15 日 更新)
+** (2021 年 8 月 27 日 更新)
 
 *河合 佑太* 
 
-*** 連絡先: ykawai (at) gfd-dennou.org
+*** 連絡先: yuta.kawai (at) riken.jp
 *** 現所属 
 
 理化学研究所 計算科学研究センター  
@@ -52,7 +52,7 @@
 
 - [[https://github.com/gfd-dennou-club/Dennou-OGCM][海洋大循環モデル・海氷モデルの開発]]
 - [[https://github.com/gfd-dennou-club/Dennou-CCM][大気海洋海氷結合モデルの開発]]
-- [[https://www.gfd-dennou.org/GFD_Dennou_Club/dc-arch/prepri/2018/kobe-u/ykawai_Dthesis/paper/src/dthesis_ja_main_latest.pdf][博士論文: 大気海洋海氷結合モデルの開発と海惑星気候に対する海洋大循環の影響に関する数値実験 (すいません.. 投稿論文準備中のため電脳関係者のみ閲覧可能)]]
+- [[https://www.gfd-dennou.org/GFD_Dennou_Club/dc-arch/prepri/2018/kobe-u/ykawai_Dthesis/paper/src/dthesis_ja_main_latest.pdf][博士論文: 大気海洋海氷結合モデルの開発と海惑星気候に対する海洋大循環の影響に関する数値実験 (投稿論文準備中のため電脳関係者のみ閲覧可能)]]
 - 領域非静力学大気モデル SCALE の流体スキームの拡充
 
 ** 修士課程
