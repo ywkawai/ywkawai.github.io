@@ -21,7 +21,7 @@
 <p><img src="./img/ykawai_profile.JPG" alt="ykawai_profile.JPG" align="right" height="350">
 #+END_EXPORT
 
-** (2021 年 10 月 9 日 更新)
+** (2021 年 12 月 2 日 更新)
 
 *河合 佑太* 
 
