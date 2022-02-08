@@ -3,7 +3,7 @@
 "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml" lang="ja" xml:lang="ja">
 <head>
-<!-- 2021-12-02 木 09:23 -->
+<!-- 2022-02-08 火 14:28 -->
 <meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
 <meta name="viewport" content="width=device-width, initial-scale=1" />
 <title>Yuta Kawai のページ</title>
@@ -39,7 +39,7 @@
   }
   pre.src {
     position: relative;
-    overflow: visible;
+    overflow: auto;
     padding-top: 1.2em;
   }
   pre.src:before {
@@ -51,7 +51,7 @@
     padding: 3px;
     border: 1px solid black;
   }
-  pre.src:hover:before { display: inline;}
+  pre.src:hover:before { display: inline; margin-top: 14px;}
   /* Languages per Org manual */
   pre.src-asymptote:before { content: 'Asymptote'; }
   pre.src-awk:before { content: 'Awk'; }
@@ -199,50 +199,26 @@ div.figure { float:left; }
 /*]]>*/-->
 </style>
 <script type="text/javascript">
-/*
-@licstart  The following is the entire license notice for the
-JavaScript code in this tag.
-
-Copyright (C) 2012-2020 Free Software Foundation, Inc.
-
-The JavaScript code in this tag is free software: you can
-redistribute it and/or modify it under the terms of the GNU
-General Public License (GNU GPL) as published by the Free Software
-Foundation, either version 3 of the License, or (at your option)
-any later version.  The code is distributed WITHOUT ANY WARRANTY;
-without even the implied warranty of MERCHANTABILITY or FITNESS
-FOR A PARTICULAR PURPOSE.  See the GNU GPL for more details.
-
-As additional permission under GNU GPL version 3 section 7, you
-may distribute non-source (e.g., minimized or compacted) forms of
-that code without the copy of the GNU GPL normally required by
-section 4, provided you include this license notice and a URL
-through which recipients can access the Corresponding Source.
-
-
-@licend  The above is the entire license notice
-for the JavaScript code in this tag.
-*/
+// @license magnet:?xt=urn:btih:e95b018ef3580986a04669f1b5879592219e2a7a&dn=public-domain.txt Public Domain
 <!--/*--><![CDATA[/*><!--*/
- function CodeHighlightOn(elem, id)
- {
-   var target = document.getElementById(id);
-   if(null != target) {
-     elem.cacheClassElem = elem.className;
-     elem.cacheClassTarget = target.className;
-     target.className = "code-highlighted";
-     elem.className   = "code-highlighted";
-   }
- }
- function CodeHighlightOff(elem, id)
- {
-   var target = document.getElementById(id);
-   if(elem.cacheClassElem)
-     elem.className = elem.cacheClassElem;
-   if(elem.cacheClassTarget)
-     target.className = elem.cacheClassTarget;
- }
-/*]]>*///-->
+     function CodeHighlightOn(elem, id)
+     {
+       var target = document.getElementById(id);
+       if(null != target) {
+         elem.classList.add("code-highlighted");
+         target.classList.add("code-highlighted");
+       }
+     }
+     function CodeHighlightOff(elem, id)
+     {
+       var target = document.getElementById(id);
+       if(null != target) {
+         elem.classList.remove("code-highlighted");
+         target.classList.remove("code-highlighted");
+       }
+     }
+    /*]]>*///-->
+// @license-end
 </script>
 </head>
 <body>
@@ -250,20 +226,20 @@ for the JavaScript code in this tag.
 <h1 class="title">Yuta Kawai のページ</h1>
 <p><img src="./img/ykawai_profile.JPG" alt="ykawai_profile.JPG" align="right" height="350">
 
-<div id="outline-container-org5fd5c67" class="outline-3">
-<h3 id="org5fd5c67">(2021 年 12 月 2 日 更新)</h3>
-<div class="outline-text-3" id="text-org5fd5c67">
+<div id="outline-container-orgbe9a5e5" class="outline-3">
+<h3 id="orgbe9a5e5">(2022 年 2 月 8 日 更新)</h3>
+<div class="outline-text-3" id="text-orgbe9a5e5">
 <p>
 <b>河合 佑太</b> <br />
 </p>
 </div>
 
-<div id="outline-container-orgbc96b7a" class="outline-4">
-<h4 id="orgbc96b7a">連絡先: yuta.kawai (at) riken.jp</h4>
+<div id="outline-container-org3cccfaa" class="outline-4">
+<h4 id="org3cccfaa">連絡先: yuta.kawai (at) riken.jp</h4>
 </div>
-<div id="outline-container-orgd5cc3f8" class="outline-4">
-<h4 id="orgd5cc3f8">現所属</h4>
-<div class="outline-text-4" id="text-orgd5cc3f8">
+<div id="outline-container-orgc044430" class="outline-4">
+<h4 id="orgc044430">現所属</h4>
+<div class="outline-text-4" id="text-orgc044430">
 <p>
 理化学研究所 計算科学研究センター<br />
 複合系気候科学研究チーム 特別研究員<br />
@@ -272,16 +248,16 @@ for the JavaScript code in this tag.
 </div>
 </div>
 
-<div id="outline-container-orgdb18c84" class="outline-3">
-<h3 id="orgdb18c84"><a href="./profile.html">プロフィール</a></h3>
-<div class="outline-text-3" id="text-orgdb18c84">
+<div id="outline-container-orgd4bc7e8" class="outline-3">
+<h3 id="orgd4bc7e8"><a href="./profile.html">プロフィール</a></h3>
+<div class="outline-text-3" id="text-orgd4bc7e8">
 <br clear="right">
 </div>
 </div>
 
-<div id="outline-container-org2944282" class="outline-2">
-<h2 id="org2944282">研究テーマ</h2>
-<div class="outline-text-2" id="text-org2944282">
+<div id="outline-container-org7509863" class="outline-2">
+<h2 id="org7509863">研究テーマ</h2>
+<div class="outline-text-2" id="text-org7509863">
 <ul class="org-ul">
 <li>次世代気象気候モデルを念頭にした力学コアの高度化<br />
 <ul class="org-ul">
@@ -298,9 +274,9 @@ for the JavaScript code in this tag.
 </ul>
 </div>
 
-<div id="outline-container-org44fe312" class="outline-3">
-<h3 id="org44fe312">博士課程</h3>
-<div class="outline-text-3" id="text-org44fe312">
+<div id="outline-container-org1c20d54" class="outline-3">
+<h3 id="org1c20d54">博士課程</h3>
+<div class="outline-text-3" id="text-org1c20d54">
 <ul class="org-ul">
 <li><a href="https://github.com/gfd-dennou-club/Dennou-OGCM">海洋大循環モデル・海氷モデルの開発</a><br /></li>
 <li><a href="https://github.com/gfd-dennou-club/Dennou-CCM">大気海洋海氷結合モデルの開発</a><br /></li>
@@ -310,9 +286,9 @@ for the JavaScript code in this tag.
 </div>
 </div>
 
-<div id="outline-container-org224dc20" class="outline-3">
-<h3 id="org224dc20">修士課程</h3>
-<div class="outline-text-3" id="text-org224dc20">
+<div id="outline-container-org14d7bdd" class="outline-3">
+<h3 id="org14d7bdd">修士課程</h3>
+<div class="outline-text-3" id="text-org14d7bdd">
 <ul class="org-ul">
 <li><a href="http://www.gfd-dennou.org/arch/prepri/2013/kobe-u/130208_ykawai_Mthesis/paper/pub/main.pdf">修士論文: 高精度有限体積法による非静力学惑星大気循環モデルの開発</a><br /></li>
 <li>立方球面格子による大気モデル(力学コア)の開発<br /></li>
@@ -321,9 +297,9 @@ for the JavaScript code in this tag.
 </div>
 </div>
 
-<div id="outline-container-orgc056a39" class="outline-3">
-<h3 id="orgc056a39">B4</h3>
-<div class="outline-text-3" id="text-orgc056a39">
+<div id="outline-container-org3f2e5b1" class="outline-3">
+<h3 id="org3f2e5b1">B4</h3>
+<div class="outline-text-3" id="text-org3f2e5b1">
 <ul class="org-ul">
 <li><a href="http://www.gfd-dennou.org/arch/prepri/2011/kobe-u/110212_ykawai-Bthesis/paper/pub/main.pdf">卒業論文: 準地衡風2層モデルを用いた中緯度大気循環の研究</a><br /></li>
 </ul>
@@ -332,13 +308,13 @@ for the JavaScript code in this tag.
 </div>
 
 
-<div id="outline-container-org1556f0e" class="outline-2">
-<h2 id="org1556f0e"><a href="./publication.html">出版物, 発表</a></h2>
+<div id="outline-container-org2989210" class="outline-2">
+<h2 id="org2989210"><a href="./publication.html">出版物, 発表</a></h2>
 </div>
 
-<div id="outline-container-orgc6b3d93" class="outline-2">
-<h2 id="orgc6b3d93">リンク</h2>
-<div class="outline-text-2" id="text-orgc6b3d93">
+<div id="outline-container-org12ba61f" class="outline-2">
+<h2 id="org12ba61f">リンク</h2>
+<div class="outline-text-2" id="text-org12ba61f">
 <ul class="org-ul">
 <li><a href="http://r-ccs-climate.riken.jp/top.htm">理化学研究所 計算科学研究機構 複合系気候科学研究チーム</a><br /></li>
 <li><a href="https://scale.riken.jp">Scalable Computing for Advanced Library and Environment (SCALE)</a><br /></li>
@@ -353,8 +329,8 @@ for the JavaScript code in this tag.
 </div>
 </div>
 <div id="postamble" class="status">
-<p class="date">Created: 2021-12-02 木 09:23</p>
-<p class="validation"><a href="http://validator.w3.org/check?uri=referer">Validate</a></p>
+<p class="date">Created: 2022-02-08 火 14:28</p>
+<p class="validation"><a href="https://validator.w3.org/check?uri=referer">Validate</a></p>
 </div>
 </body>
 </html>

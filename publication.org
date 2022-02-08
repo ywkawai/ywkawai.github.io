@@ -32,6 +32,8 @@
 
 * 学会発表, 研究発表
 ** 2021 年度
+- _Kawai, Y._, Tomita, H., 2022: Investigation of numerical errors with the Discontinuous Galerkin method for atmospheric high-resolution simulations, The 4th R-CCS International Symposium, 7th February 2022 (Lightning talk and poster)
+- Sueki,K., Kajikawa, Y., Adachi, S., Yamaura, T., _Kawai, Y._, Tomita H., and Oishi,S., 2022: High-resolution ensemble prediction experiment for extreme rainfall event in western Japan in July 2018 using Fugaku,  The 4th R-CCS International Symposium, 7th February 2022 (Lightning talk and poster)
 - _河合佑太_, 末木健太, 富田浩文, 高解像度大気計算における力学スキームの離散精度の影響に関する研究, 2021: 日本気象学会 2021 年度秋季大会, 2021 年 12 月 8 日 (講演番号 SP5-11+, 招待講演)
 - 八代 尚, 寺崎 康児,  中野 満寿男, 小玉 知央, _河合 佑太_, 富田 浩文, 2021: 計算機システムと気象・気候分野のアプリケーションのコデザイン：NICAM-LETKFの経験から, 日本気象学会 2021 年度秋季大会, 2021 年 12 月 8 日 (講演番号 SP5-13+, 招待講演)
 - _河合佑太_, 高橋芳幸, 石渡正樹(発表者), 竹広真一, 中島健介, 樫村博基, 富田浩文, 林祥介, 2021: 大気吸収係数が海惑星の気候レジーム図に与える影響, 日本気象学会 2021 年度秋季大会, 2021 年 12 月 6 日 (講演番号 SP3-12+)
