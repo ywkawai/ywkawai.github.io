@@ -21,7 +21,7 @@
 <p><img src="./img/ykawai_profile.JPG" alt="ykawai_profile.JPG" align="right" height="350">
 #+END_EXPORT
 
-** (2022 年 2 月 8 日 更新)
+** (2022 年 4 月 18 日 更新)
 
 *河合 佑太* 
 
@@ -33,17 +33,20 @@
  
 ** [[./profile.html][プロフィール]]
 
+** [[./publication.html][出版物, 発表]]
+
 #+BEGIN_EXPORT HTML
 <br clear="right">
 #+END_EXPORT
 
-* 研究テーマ
+* 主な研究テーマ
 
 - 次世代気象気候モデルを念頭にした力学コアの高度化
  - 全球ラージ・エディ・シミュレーションに向けた力学コアの必要精度に関する研究
  - [[https://ywkawai.github.io/FE-Project_web/][FE-Project]]: 不連続ガラーキン法を用いた流体計算ライブラリ, 大気モデルの構築
+ - 湿潤対流の数値収束性
  - [[https://scale.riken.jp][SCALE]] の流体スキームの拡充
-
+   
 - 惑星気候モデルの開発
 - 大気海洋海氷結合モデルを用いた惑星気候シミュレーション
  - 海惑星気候の太陽定数依存性の研究
@@ -67,12 +70,11 @@
 # - [[http://space.geocities.jp/bberrysoft/note_page.html][数値予報モデル構築のための気象力学と数値計算理論ノートの作成]]
 
 
-* [[./publication.html][出版物, 発表]]
-
 * リンク
 
 - [[http://r-ccs-climate.riken.jp/top.htm][理化学研究所 計算科学研究機構 複合系気候科学研究チーム]]
 - [[https://scale.riken.jp][Scalable Computing for Advanced Library and Environment (SCALE)]]
+- [[https://dna-climate.org][学術変革領域研究 B: Deep Numerical Analysis 気候学への挑戦]]
 - [[https://www.gfd-dennou.org][地球流体電脳倶楽部]]
   - [[https://www.gfd-dennou.org/library/dcmodel/][dcmodel プロジェクト]]
 - [[https://epa.scitec.kobe-u.ac.jp][神戸大学 地球および惑星大気科学研究室(流体地球物理学教育研究分野)]]

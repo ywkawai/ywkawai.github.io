@@ -3,7 +3,7 @@
 "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml" lang="ja" xml:lang="ja">
 <head>
-<!-- 2021-04-10 土 11:28 -->
+<!-- 2022-04-18 月 10:04 -->
 <meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
 <meta name="viewport" content="width=device-width, initial-scale=1" />
 <title>プロフィール</title>
@@ -39,7 +39,7 @@
   }
   pre.src {
     position: relative;
-    overflow: visible;
+    overflow: auto;
     padding-top: 1.2em;
   }
   pre.src:before {
@@ -51,7 +51,7 @@
     padding: 3px;
     border: 1px solid black;
   }
-  pre.src:hover:before { display: inline;}
+  pre.src:hover:before { display: inline; margin-top: 14px;}
   /* Languages per Org manual */
   pre.src-asymptote:before { content: 'Asymptote'; }
   pre.src-awk:before { content: 'Awk'; }
@@ -199,50 +199,26 @@ div.figure { float:left; }
 /*]]>*/-->
 </style>
 <script type="text/javascript">
-/*
-@licstart  The following is the entire license notice for the
-JavaScript code in this tag.
-
-Copyright (C) 2012-2020 Free Software Foundation, Inc.
-
-The JavaScript code in this tag is free software: you can
-redistribute it and/or modify it under the terms of the GNU
-General Public License (GNU GPL) as published by the Free Software
-Foundation, either version 3 of the License, or (at your option)
-any later version.  The code is distributed WITHOUT ANY WARRANTY;
-without even the implied warranty of MERCHANTABILITY or FITNESS
-FOR A PARTICULAR PURPOSE.  See the GNU GPL for more details.
-
-As additional permission under GNU GPL version 3 section 7, you
-may distribute non-source (e.g., minimized or compacted) forms of
-that code without the copy of the GNU GPL normally required by
-section 4, provided you include this license notice and a URL
-through which recipients can access the Corresponding Source.
-
-
-@licend  The above is the entire license notice
-for the JavaScript code in this tag.
-*/
+// @license magnet:?xt=urn:btih:e95b018ef3580986a04669f1b5879592219e2a7a&dn=public-domain.txt Public Domain
 <!--/*--><![CDATA[/*><!--*/
- function CodeHighlightOn(elem, id)
- {
-   var target = document.getElementById(id);
-   if(null != target) {
-     elem.cacheClassElem = elem.className;
-     elem.cacheClassTarget = target.className;
-     target.className = "code-highlighted";
-     elem.className   = "code-highlighted";
-   }
- }
- function CodeHighlightOff(elem, id)
- {
-   var target = document.getElementById(id);
-   if(elem.cacheClassElem)
-     elem.className = elem.cacheClassElem;
-   if(elem.cacheClassTarget)
-     target.className = elem.cacheClassTarget;
- }
-/*]]>*///-->
+     function CodeHighlightOn(elem, id)
+     {
+       var target = document.getElementById(id);
+       if(null != target) {
+         elem.classList.add("code-highlighted");
+         target.classList.add("code-highlighted");
+       }
+     }
+     function CodeHighlightOff(elem, id)
+     {
+       var target = document.getElementById(id);
+       if(null != target) {
+         elem.classList.remove("code-highlighted");
+         target.classList.remove("code-highlighted");
+       }
+     }
+    /*]]>*///-->
+// @license-end
 </script>
 </head>
 <body>
@@ -252,13 +228,13 @@ for the JavaScript code in this tag.
 <a href="./index.html">&lt;Top ページに戻る&gt;</a>
 </p>
 
-<div id="outline-container-org2c71537" class="outline-2">
-<h2 id="org2c71537">職歴</h2>
-<div class="outline-text-2" id="text-org2c71537">
+<div id="outline-container-org974eaeb" class="outline-2">
+<h2 id="org974eaeb">職歴</h2>
+<div class="outline-text-2" id="text-org974eaeb">
 </div>
-<div id="outline-container-org3cc92df" class="outline-4">
-<h4 id="org3cc92df">ポスドク研究者</h4>
-<div class="outline-text-4" id="text-org3cc92df">
+<div id="outline-container-orgaf6d67f" class="outline-4">
+<h4 id="orgaf6d67f">ポスドク研究者</h4>
+<div class="outline-text-4" id="text-orgaf6d67f">
 <ul class="org-ul">
 <li>理化学研究所 計算科学研究センター 複合系気候科学研究チーム 特別研究員 (2021 年 4 月 - 現在)</li>
 <li>理化学研究所 計算科学研究センター アプリケーション開発チーム(兼 複合系気候科学研究チーム) 特別研究員 (2019 年 9 月 - 2021 年 3 月)</li>
@@ -268,9 +244,9 @@ for the JavaScript code in this tag.
 </div>
 </div>
 
-<div id="outline-container-orgd5c613a" class="outline-4">
-<h4 id="orgd5c613a">研究アシスタント, その他</h4>
-<div class="outline-text-4" id="text-orgd5c613a">
+<div id="outline-container-org8a868ff" class="outline-4">
+<h4 id="org8a868ff">研究アシスタント, その他</h4>
+<div class="outline-text-4" id="text-org8a868ff">
 <ul class="org-ul">
 <li>理化学研究所 研究パートタイマー (2018 年 4 月 - 2019 年 8 月)</li>
 <li>理化学研究所 大学院生リサーチ・アソシエイト (2015 年 4 月 - 2018 年 3 月)</li>
@@ -281,10 +257,11 @@ for the JavaScript code in this tag.
 </div>
 
 
-<div id="outline-container-orga63dbf5" class="outline-2">
-<h2 id="orga63dbf5">表彰, フェローシップ</h2>
-<div class="outline-text-2" id="text-orga63dbf5">
+<div id="outline-container-org8bc76bf" class="outline-2">
+<h2 id="org8bc76bf">表彰, フェローシップ</h2>
+<div class="outline-text-2" id="text-org8bc76bf">
 <ul class="org-ul">
+<li>2022 年  3 月: 2021 年度 理研梅峰賞 (寺崎康児, <span class="underline">河合佑太</span>, 三好建正, 富田浩文, 八代尚)</li>
 <li>2018 年  3 月: 神戸大学 学生表彰</li>
 <li>2017 年 10 月: 地球電磁気・地球惑星圏学会 2017年度 秋季大会 学生発表賞</li>
 <li>2015 年  4 月 - 2018 年 3 月: 理化学研究所 大学院生リサーチ・アソシエイト</li>
@@ -292,9 +269,9 @@ for the JavaScript code in this tag.
 </div>
 </div>
 
-<div id="outline-container-org9d85641" class="outline-2">
-<h2 id="org9d85641">学歴</h2>
-<div class="outline-text-2" id="text-org9d85641">
+<div id="outline-container-org5f60ffb" class="outline-2">
+<h2 id="org5f60ffb">学歴</h2>
+<div class="outline-text-2" id="text-org5f60ffb">
 <ul class="org-ul">
 <li>2018 年 9 月 神戸大学 大学院理学研究科 地球惑星科学専攻 後期課程 修了, 博士(理学)</li>
 <li>2013 年 4 月 神戸大学 大学院理学研究科 地球惑星科学専攻　後期課程 進学</li>
@@ -306,9 +283,9 @@ for the JavaScript code in this tag.
 </div>
 </div>
 
-<div id="outline-container-org6f0316b" class="outline-2">
-<h2 id="org6f0316b">Grants</h2>
-<div class="outline-text-2" id="text-org6f0316b">
+<div id="outline-container-org6d311cc" class="outline-2">
+<h2 id="org6d311cc">Grants</h2>
+<div class="outline-text-2" id="text-org6d311cc">
 <ul class="org-ul">
 <li>科学研究費助成事業 学術変革B 「DNA 気候学への挑戦」A04 班 高解像度気候モデル用の新たな流体計算スキームとパラメタリゼーション開発への挑戦, 研究分担者, 2020-2022</li>
 </ul>
@@ -316,8 +293,8 @@ for the JavaScript code in this tag.
 </div>
 </div>
 <div id="postamble" class="status">
-<p class="date">Created: 2021-04-10 土 11:28</p>
-<p class="validation"><a href="http://validator.w3.org/check?uri=referer">Validate</a></p>
+<p class="date">Created: 2022-04-18 月 10:04</p>
+<p class="validation"><a href="https://validator.w3.org/check?uri=referer">Validate</a></p>
 </div>
 </body>
 </html>

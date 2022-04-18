@@ -27,10 +27,12 @@
 ** 投稿中の論文
 ** 投稿準備の論文
 - _Yuta Kawai_, Yoshiyuki O. Takahashi, Masaki Ishiwatari, Kensuke Nakajima, Shin-ichi Takehiro, Hiroki Kashimura, Hirofumi Tomita, Yoshi-Yuki Hayashi: Solar constant dependence of climate states of an ocean planet with gray atmosphere: Effects of heat capacity and heat transport of the ocean, in preparation 
- 
+- _Yuta Kawai_, Hirofumi Tomita:  Numerical Accuracy Necessary For Large-Eddy Simulation of Planetary Boundary Layer Turbulence in Discontinuous Galerkin Method Part I : Formulation of numerical criteria, in preparation
+- _Yuta Kawai_, Hirofumi Tomita:  Numerical Accuracy Necessary For Large-Eddy Simulation of Planetary Boundary Layer Turbulence in Discontinuous Galerkin Method Part II : Verification of numerical criteria, in preparation
 
 
 * 学会発表, 研究発表
+
 ** 2021 年度
 - _Kawai, Y._, Tomita, H., 2022: Investigation of numerical errors with the Discontinuous Galerkin method for atmospheric high-resolution simulations, The 4th R-CCS International Symposium, 7th February 2022 (Lightning talk and poster)
 - Sueki,K., Kajikawa, Y., Adachi, S., Yamaura, T., _Kawai, Y._, Tomita H., and Oishi,S., 2022: High-resolution ensemble prediction experiment for extreme rainfall event in western Japan in July 2018 using Fugaku,  The 4th R-CCS International Symposium, 7th February 2022 (Lightning talk and poster)
