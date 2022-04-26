@@ -33,6 +33,9 @@
 
 * 学会発表, 研究発表
 
+** 2022 年度
+- _Kawai, Y._, Tomita, H., 2022: A study on discontinuous Glaerkin method for future high-resolution atmopsheric simulations, DNA Climate Science Meeting, 26th April, 2022
+
 ** 2021 年度
 - _Kawai, Y._, Tomita, H., 2022: Investigation of numerical errors with the Discontinuous Galerkin method for atmospheric high-resolution simulations, The 4th R-CCS International Symposium, 7th February 2022 (Lightning talk and poster)
 - Sueki,K., Kajikawa, Y., Adachi, S., Yamaura, T., _Kawai, Y._, Tomita H., and Oishi,S., 2022: High-resolution ensemble prediction experiment for extreme rainfall event in western Japan in July 2018 using Fugaku,  The 4th R-CCS International Symposium, 7th February 2022 (Lightning talk and poster)
