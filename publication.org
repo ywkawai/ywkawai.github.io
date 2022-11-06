@@ -35,8 +35,8 @@
 * 学会発表, 研究発表
 
 ** 2022 年度
+- _河合佑太_, 富田浩文, 2022: 不連続ガラーキン法を用いた大気モデルの開発: 湿潤過程の導入, 日本気象学会 2022 年度秋季大会, 2022 年 10 月 26 日 (講演番号 C303)
 - _Kawai, Y._, Tomita, H., 2022: A development of an atmospheric model using the discontinuous Galerkin method: Inclusion of moist process, DNA 気候学 夏の勉強会, 2022 年 9 月 9 日 
-- _河合佑太_, 富田浩文, 2022: 大気ラージエディシミュレーションにおける不連続ガラーキン法の数値誤差の影響に関する研究, 日本地球惑星科学連合 2022 年大会, 2022 年 5 月 23 日 (講演番号 MGI33-11)
 - _河合佑太_, 富田浩文, 2022: 大気ラージエディシミュレーションにおける不連続ガラーキン法の数値誤差の影響に関する研究, 日本地球惑星科学連合 2022 年大会, 2022 年 5 月 23 日 (講演番号 MGI33-11)
 - _河合佑太_, 富田浩文, 2022: 不連続ガラーキン法を用いた大気ラージエディシミュレーション: 数値誤差に関する指標の導出, 日本気象学会 2022 年度春季大会, 2022 年 5 月 18 日 (講演番号 BL-04+)
 - _Kawai, Y._, Tomita, H., 2022: A study on discontinuous Galerkin method for future high-resolution atmospheric simulations, DNA Climate Science Meeting, 26th April, 2022
