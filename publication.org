@@ -25,8 +25,7 @@
 - Hisashi Yashiro, Koji Terasaki, _Yuta Kawai_, Shuhei Kudo, Takemasa Miyoshi, Toshiyuki Imamura, Kazuo Minami, Hikaru Inoue, Tatsuo Nishiki, Takayuki Saji, Masaki Satoh, Hirofumi Tomita, 2020: A 1024-member ensemble data assimilation with 3.5-km mesh global weather simulations.  In 2020 SC20: International Conference for High Performance Computing, Networking, Storage and Analysis (SC) (pp. 1-10). IEEE Computer Society.
 
 ** 投稿中の論文
-- _Yuta Kawai_, Hirofumi Tomita:  Numerical Accuracy Necessary For Large-Eddy Simulation of Planetary Boundary Layer Turbulence in Discontinuous Galerkin Method Part I : Formulation of Numerical Criteria, submitted to Monthly Weather Review
-- _Yuta Kawai_, Hirofumi Tomita:  Numerical Accuracy Necessary For Large-Eddy Simulation of Planetary Boundary Layer Turbulence in Discontinuous Galerkin Method Part II : Verification of Numerical Criteria, submitted to Monthly Weather Review
+- _Yuta Kawai_, Hirofumi Tomita:  Numerical Accuracy Necessary For Large-Eddy Simulation of Planetary Boundary Layer Turbulence using Discontinuous Galerkin Method, submitted to Monthly Weather Review, in revision
 
 ** 投稿準備の論文
 - _Yuta Kawai_, Yoshiyuki O. Takahashi, Masaki Ishiwatari, Kensuke Nakajima, Shin-ichi Takehiro, Hiroki Kashimura, Hirofumi Tomita, Yoshi-Yuki Hayashi: Solar constant dependence of climate states of an ocean planet with gray atmosphere: Effects of heat capacity and heat transport of the ocean, in preparation 
@@ -35,6 +34,7 @@
 * 学会発表, 研究発表
 
 ** 2022 年度
+- _Kawai, Y._, Tomita, H., 2023: A study on Numerical Accuracy of Dynamical Core Necessary for Large-Eddy Simulation of Planetary Boundary Layer Turbulence, AMS 103rd Annual Meeting, 9th January, 2023
 - _河合佑太_, 富田浩文, 2022: 不連続ガラーキン法を用いた大気モデルの開発: 湿潤過程の導入, 日本気象学会 2022 年度秋季大会, 2022 年 10 月 26 日 (講演番号 C303)
 - _Kawai, Y._, Tomita, H., 2022: A development of an atmospheric model using the discontinuous Galerkin method: Inclusion of moist process, DNA 気候学 夏の勉強会, 2022 年 9 月 9 日 
 - _河合佑太_, 富田浩文, 2022: 大気ラージエディシミュレーションにおける不連続ガラーキン法の数値誤差の影響に関する研究, 日本地球惑星科学連合 2022 年大会, 2022 年 5 月 23 日 (講演番号 MGI33-11)

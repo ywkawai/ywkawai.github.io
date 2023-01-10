@@ -21,14 +21,14 @@
 <p><img src="./img/ykawai_profile.JPG" alt="ykawai_profile.JPG" align="right" height="350">
 #+END_EXPORT
 
-** (2022 年 10 月 26 日 更新)
+** (2023 年 1 月 10 日 更新)
 
 *河合 佑太* 
 
 *** 連絡先: yuta.kawai (at) riken.jp
 *** 現所属 
 
-理化学研究所 計算科学研究センター  
+理化学研究所 計算科学研究センター
 複合系気候科学研究チーム 特別研究員
  
 ** [[./profile.html][プロフィール]]
