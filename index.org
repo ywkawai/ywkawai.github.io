@@ -21,7 +21,7 @@
 <p><img src="./img/ykawai_profile.JPG" alt="ykawai_profile.JPG" align="right" height="350">
 #+END_EXPORT
 
-** (2023 年 1 月 10 日 更新)
+** [#B] (2023 年 2 月 7 日 更新)
 
 *河合 佑太* 
 
@@ -75,6 +75,7 @@
 - [[http://r-ccs-climate.riken.jp/top.htm][理化学研究所 計算科学研究機構 複合系気候科学研究チーム]]
 - [[https://scale.riken.jp][Scalable Computing for Advanced Library and Environment (SCALE)]]
 - [[https://dna-climate.org][学術変革領域研究 B: Deep Numerical Analysis 気候学への挑戦]]
+- [[https://moonshot8-modeldev.riken.jp][ムーンショット目標８ 局地的気象の蓋然性推定を可能にする気象モデルの開発]]
 - [[https://www.gfd-dennou.org][地球流体電脳倶楽部]]
   - [[https://www.gfd-dennou.org/library/dcmodel/][dcmodel プロジェクト]]
 - [[https://epa.scitec.kobe-u.ac.jp][神戸大学 地球および惑星大気科学研究室(流体地球物理学教育研究分野)]]
