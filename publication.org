@@ -35,6 +35,7 @@
 * 学会発表, 研究発表
 
 ** 2023 年度
+- _Kawai, Y._, Tomita, H., 2023: Development of a global atmospheric nonhydrostatic dynamical core using discontinuous Galerkin method, The 6th International Workshop on Nonhydrostatic Models (NHM-WS 2023), 31th August - 2nd September, 2023
 - _河合佑太_, 富田浩文, 2023: 不連続ガラーキン法を用いた非静力学大気力学コアの開発: 地形の考慮, 日本地球惑星科学連合 2023 年大会, 2023 年 5 月 26 日 (講演番号 MGI30-03)
 - _河合佑太_, 富田浩文, 2023: 地形を考慮した不連続ガラーキン法に基づく大気力学コアの開発, 日本気象学会 2023 年度春季大会, 2023 年 5 月 18 日 (講演番号 C301)
 - _Kawai, Y._, Tomita, H., 2023: A study on discontinuous Galerkin method for atmospheric high-resolution simulations, Global Storm-Resolving Modeling Mini Workshop, 11-12th May, 2023
