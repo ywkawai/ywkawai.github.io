@@ -22,19 +22,23 @@
 - _Yuta Kawai_ and Hirofumi Tomita, 2021: Numerical Accuracy of Advection Scheme necessary for Large-Eddy Simulation of Planetary Boundary Layer Turbulence, Monthly Weather Review, 149, 9.
 
 ** 共著論文
+- Hiroaki Miura, Tamaki Suematsu, _Yuta Kawai_, Yoko Yamagami, Daisuke Takasuka, Yuki Takano, Ching-Shu Hung, Kazuya Yamazaki, Chihiro Kodama, Yoshiyuki Kajikawa, and Yukio Masumoto, 202X: Asymptotic matching between weather and climate models, Bulletin of the American Meteorological Society, accepted. 
 - Masaki Ishiwatari, Kensuke Nakajima, Shin-ichi Takehiro, Yoshi-Yuki Hayashi, _Yuta Kawai_, Yoshiyuki O. Takahashi, 2021: Revision of “Dependence of climate states of gray atmosphere on solar constant: From the runaway greenhouse to the snowball state" by Ishiwatari et al. (2007), Journal of Geophysical Research: Atmospheres, 126, e2019JD031761.
 - Hisashi Yashiro, Koji Terasaki, _Yuta Kawai_, Shuhei Kudo, Takemasa Miyoshi, Toshiyuki Imamura, Kazuo Minami, Hikaru Inoue, Tatsuo Nishiki, Takayuki Saji, Masaki Satoh, Hirofumi Tomita, 2020: A 1024-member ensemble data assimilation with 3.5-km mesh global weather simulations.  In 2020 SC20: International Conference for High Performance Computing, Networking, Storage and Analysis (SC) (pp. 1-10). IEEE Computer Society.
 
 ** 投稿中の論文
-- Hiroaki Miura, Tamaki Suematsu, _Yuta Kawai_, Yoko Yamagami, Daisuke Takasuka, Yuki Takano, Ching-Shu Hung, Kazuya Yamazaki, Chihiro Kodama, Yoshiyuki Kajikawa, and Yukio Masumoto: Asymptotic matching between weather and climate models. Submitted to BAMS
 
 ** 投稿準備の論文
+- _Yuta Kawai_ and Hirofumi Tomita: A High-order Nonhydrostatic Atmospheric Dynamical Core using Discontinuous Galerkin Method toward future high-resolution simulations: Formulation and Validation, in preparation
 - _Yuta Kawai_, Yoshiyuki O. Takahashi, Masaki Ishiwatari, Kensuke Nakajima, Shin-ichi Takehiro, Hiroki Kashimura, Hirofumi Tomita, Yoshi-Yuki Hayashi: Solar constant dependence of climate states of an ocean planet with gray atmosphere: Effects of heat capacity and heat transport of the ocean, in preparation 
 
 
 * 学会発表, 研究発表
 
 ** 2023 年度
+- _河合佑太_, 富田浩文, 2023: 不連続ガラーキン法を用いた全球大気力学コアの妥当性の検証, 日本気象学会 2023 年度秋季大会, 2023 年 10 月 24 日 (講演番号 C210)
+- _河合佑太_, 富田浩文, 2023: 不連続 Galerkin 法に基づく全球力学コアのテスト計算, 第 9 回マッデン・ジュリアン振動研究会, 2023 年 9 月 29 日
+- _河合佑太_, 富田浩文, 2023: 不連続ガラーキン法を用いた非静力学大気力学コアの開発: 地形の考慮, 日本地球惑星科学連合 2023 年大会, 2023 年 5 月 26 日 (講演番号 MGI30-03)
 - _Kawai, Y._, Tomita, H., 2023: Development of a global atmospheric nonhydrostatic dynamical core using discontinuous Galerkin method, The 6th International Workshop on Nonhydrostatic Models (NHM-WS 2023), 31th August - 2nd September, 2023
 - _河合佑太_, 富田浩文, 2023: 不連続ガラーキン法を用いた非静力学大気力学コアの開発: 地形の考慮, 日本地球惑星科学連合 2023 年大会, 2023 年 5 月 26 日 (講演番号 MGI30-03)
 - _河合佑太_, 富田浩文, 2023: 地形を考慮した不連続ガラーキン法に基づく大気力学コアの開発, 日本気象学会 2023 年度春季大会, 2023 年 5 月 18 日 (講演番号 C301)
