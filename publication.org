@@ -27,15 +27,18 @@
 - Hisashi Yashiro, Koji Terasaki, _Yuta Kawai_, Shuhei Kudo, Takemasa Miyoshi, Toshiyuki Imamura, Kazuo Minami, Hikaru Inoue, Tatsuo Nishiki, Takayuki Saji, Masaki Satoh, Hirofumi Tomita, 2020: A 1024-member ensemble data assimilation with 3.5-km mesh global weather simulations.  In 2020 SC20: International Conference for High Performance Computing, Networking, Storage and Analysis (SC) (pp. 1-10). IEEE Computer Society.
 
 ** 投稿中の論文
+- _Yuta Kawai_ and Hirofumi Tomita: Development of High-order Global Dynamical Core using Discontinuous Galerkin Method for atmospheric LES and proposal of test cases, submitted to GMD
 
 ** 投稿準備の論文
-- _Yuta Kawai_ and Hirofumi Tomita: A High-order Nonhydrostatic Atmospheric Dynamical Core using Discontinuous Galerkin Method toward future high-resolution simulations: Formulation and Validation, in preparation
 - _Yuta Kawai_, Yoshiyuki O. Takahashi, Masaki Ishiwatari, Kensuke Nakajima, Shin-ichi Takehiro, Hiroki Kashimura, Hirofumi Tomita, Yoshi-Yuki Hayashi: Solar constant dependence of climate states of an ocean planet with gray atmosphere: Effects of heat capacity and heat transport of the ocean, in preparation 
 
 
 * 学会発表, 研究発表
+** 2024 年度
+- Kawai, Y._, Ren, X., Katagiri, T., Nishizawa, S., Tomita, H., 2024: Development of an atmospheric model using discontinuous Galerkin method: Evaluation of the computational performance on A64FX, 16th JLESC Workshop, 16th April, 2024
 
 ** 2023 年度
+- 任軒正博, _河合佑太_, 富田浩文, 片桐孝洋, 西澤誠也, 星野哲也, 河合直聡, 永井亨, 2024: 不連続ガラーキン法を基づいた大気力学コアの性能評価と改善について. 第193回HPC研究会, 2024 年 3 月 18 日
 - _Kawai, Y._, Tomita, H., 2024: Validation of a Global Nonhydrostatic Atmospheric Dynamical Core using Discontinuous Galerkin method, AMS 104th Annual Meeting, 30th January, 2024
 - Xuanzhengbo Ren, _Yuta Kawai_, Hirofumi Tomita, Takahiro Katagiri, Seiya Nishizawa, Tetsuya Hoshino, Masatoshi Kawai, Toru Nagai, 2024: An Evaluation of Discontinuous Galerkin Method based Global Nonhydrostatic Atmospheric Dynamical Core on A64FX Platform, HPC Asia 2024, 26th January, 2024
 - _河合佑太_, 任軒正博, 片桐孝洋, 富田浩文, 2024:不連続ガラーキン法に基づく流体計算コードの富岳における計算効率について, 富岳 NEXT FS 気象気候研究会, 2024 年 1 月 18 日
@@ -46,7 +49,6 @@
 - _河合佑太_, 富田浩文, 2023: 不連続ガラーキン法を用いた非静力学大気力学コアの開発: 地形の考慮, 日本地球惑星科学連合 2023 年大会, 2023 年 5 月 26 日 (講演番号 MGI30-03)
 - _河合佑太_, 富田浩文, 2023: 地形を考慮した不連続ガラーキン法に基づく大気力学コアの開発, 日本気象学会 2023 年度春季大会, 2023 年 5 月 18 日 (講演番号 C301)
 - _Kawai, Y._, Tomita, H., 2023: A study on discontinuous Galerkin method for atmospheric high-resolution simulations, Global Storm-Resolving Modeling Mini Workshop, 11-12th May, 2023
-
 
 ** 2022 年度
 - _河合佑太_, 富田浩文, 2023: 不連続ガラーキン法を用いた大気力学コア SCALE-DG (仮), 富岳 NEXT FS 気象気候会合, 2023 年 1 月 19 日 
