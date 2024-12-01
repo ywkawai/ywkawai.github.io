@@ -37,6 +37,7 @@
 ** 2024 年度
 - _河合佑太_, 西澤誠也, 富田浩文, 2024: 不連続ガラーキン法を用いたレイリー・べナール対流の直接数値実験: 力学スキームの高精度化の効果, 日本気象学会 2024 年度秋季大会, 2024 年 11 月 12 日 (講演番号 C167)
 - _河合佑太_, 西澤誠也, 富田浩文, 2024: 不連続ガラーキン法を用いたレイリー・べナール対流の数値実験: 力学コアの高精度化が有効解像度や確率密度分布に与える影響の検証, 第 10 回マッデン・ジュリアン振動研究会, 2024 年 10 月 29 日
+-  _Kawai, Y._, Nishizawa, S., Tomita, H., 2024: Numerical experiment of Rayleigh-Bénard convection using discontinuous Galerkin method Impact of the high-order dynamical core on the effective resolution and probability distribution function, MS8 国際シンポジウム, 6th Octorber, 2024
 - Xuanzhengbo Ren, _Yuta Kawai_, Hirofumi Tomita, Seiya Nishizawa, Takahiro Katagiri, Masatoshi Kawai, Toru Nagai, 2024: Implementing Fast Modal Filtering of SCALE-DG, 2024 IEEE International Conference on Cluster Computing Workshops (CLUSTER Workshops), 2024
 - Tomita, H., _Kawai, Y._, 2024: Why should we upgrade the dynamic core now?, Workshop on Global Storm-Resolving Analysis Bridging Atmospheric and Cloud Dynamics, 17th June, 2024 (招待講演)
 - _河合佑太_, 富田浩文, 2024: 不連続ガラーキン法を用いた全球大気力学コアの開発: 乱流モデルの導入と検証実験, 日本地球惑星科学連合 2024 年大会, 2024 年 5 月 29 日 (講演番号 MGI29-08)
