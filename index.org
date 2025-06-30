@@ -15,10 +15,10 @@
 
 
 # #+ATTR_HTML: :class align-right
-# [[file:./img/ykawai_profile.jpg]]
+# [[file:./img/ykawai_profile.JPG]]
 
 #+BEGIN_EXPORT HTML
-<p><img src="./img/ykawai_profile.jpg" alt="ykawai_profile.JPG" align="right" height="250">
+<p><img src="./img/ykawai_profile.JPG" alt="ykawai_profile.JPG" align="right" height="250">
 #+END_EXPORT
 
 ** [#B] (2025 年 6 月 30 日 更新)
