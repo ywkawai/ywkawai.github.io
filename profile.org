@@ -52,7 +52,7 @@
 - 科学研究費助成事業 学術変革B 「DNA 気候学への挑戦」A04 班 高解像度気候モデル用の新たな流体計算スキームとパラメタリゼーション開発への挑戦, 研究分担者, 2020-2022
 
 * 学会誌の査読
-- Journal of the Meteorological Society of Japan (1 件)
+- Journal of the Meteorological Society of Japan (2 件)
 - Scientific Online Letters on the Atmosphere (SOLA) (1 件)
 
 * 教育活動

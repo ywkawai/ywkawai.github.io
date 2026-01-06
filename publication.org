@@ -37,6 +37,7 @@
 
 * 学会発表, 研究発表
 ** 2025 年度
+- _Kawai, Y._, Ren, X., Nishizawa, S., Katagiri, T., Tomita, 2025: Consideration on computational advantages of a high-order dynamical core based on the discontinuous Galerkin method in atmospheric turbulent simulations, AGU25 Annual Meeting, 18th December, 2025
 - _河合佑太_, 西澤誠也, 富田浩文, 2025: 不連続ガラーキン法に基づく全球力学コアを用いた湿潤 Held-Suarez 実験: 力学-物理過程の結合手法に関する初期的検証, 日本気象学会 2025 年度秋季大会, 2025 年 11 月 5 日 (講演番号 A203)
 - 淺井颯馬, 西澤誠也, _河合佑太_, 佐藤陽祐, 2025: 3 次元多重格子法の実装による SCALE モデルの気象雷モデルの高速化, 日本気象学会 2025 年度秋季大会, 2025 年 11 月 7 日 (講演番号 P438)
 - _河合佑太_, 西澤誠也, 富田浩文, 2025: 不連続ガラーキン法に基づく全球力学コアと物理過程の結合: 湿潤 Held-Suarez 実験によるテスト計算, 第 11 回マッデン・ジュリアン振動研究会, 2025 年 9 月 26 日
