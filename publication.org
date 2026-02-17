@@ -29,17 +29,20 @@
 - Hisashi Yashiro, Koji Terasaki, _Yuta Kawai_, Shuhei Kudo, Takemasa Miyoshi, Toshiyuki Imamura, Kazuo Minami, Hikaru Inoue, Tatsuo Nishiki, Takayuki Saji, Masaki Satoh, Hirofumi Tomita, 2020: A 1024-member ensemble data assimilation with 3.5-km mesh global weather simulations.  In 2020 SC20: International Conference for High Performance Computing, Networking, Storage and Analysis (SC) (pp. 1-10). IEEE Computer Society.
 
 ** 投稿中の論文
+- _Yuta Kawai_, Xuanzhengbo Ren, Seiya Nishizawa, Takahiro Katagiri, Hirofumi Tomita: Comparison of the computational advantages of high-order dynamical cores based on the discontinuous Galerkin method and a conventional finite-volume method in atmospheric turbulent simulations, submitted to JMSJ
+- Xuanzhengbo Ren, _Yuta Kawai_, Tetsuya Hoshino, Hirofumi Tomita, Takahiro Katagiri, Daichi Mukunoki, Seiya Nishizawa: Learning-Augmented Performance Model for Tensor Product Factorization in High-Order FEM, submitted to IEEE Access and under review
 
 ** 投稿準備の論文
-- _Yuta Kawai_, Xuanzhengbo Ren, Seiya Nishizawa, Takahiro Katagiri, Hirofumi Tomita: Comparison of the computational advantages of high-order dynamical cores based on the discontinuous Galerkin method and a conventional finite-volume method in atmospheric turbulent simulations
 - _Yuta Kawai_, Yoshiyuki O. Takahashi, Masaki Ishiwatari, Kensuke Nakajima, Shin-ichi Takehiro, Hiroki Kashimura, Hirofumi Tomita, Yoshi-Yuki Hayashi: Solar constant dependence of climate states of an ocean planet with gray atmosphere: Effects of heat capacity and heat transport of the ocean, in preparation 
 
 
 * 学会発表, 研究発表
 ** 2025 年度
+- Nishizawa, S., Adachi, A., S., _Kawai, Y._, Kaman, K., Sato, Y., Yamaura, T., Yamazaki, K, 2026: OpenACC-based GPU acceleration for the SCALE atmospheric model: status and challenges, OpenACC User Workshop at SCA/HPCAsia 2026, 26th January, 2026
 - _Kawai, Y._, Ren, X., Nishizawa, S., Katagiri, T., Tomita, 2025: Consideration on computational advantages of a high-order dynamical core based on the discontinuous Galerkin method in atmospheric turbulent simulations, AGU25 Annual Meeting, 18th December, 2025
 - _河合佑太_, 西澤誠也, 富田浩文, 2025: 不連続ガラーキン法に基づく全球力学コアを用いた湿潤 Held-Suarez 実験: 力学-物理過程の結合手法に関する初期的検証, 日本気象学会 2025 年度秋季大会, 2025 年 11 月 5 日 (講演番号 A203)
 - 淺井颯馬, 西澤誠也, _河合佑太_, 佐藤陽祐, 2025: 3 次元多重格子法の実装による SCALE モデルの気象雷モデルの高速化, 日本気象学会 2025 年度秋季大会, 2025 年 11 月 7 日 (講演番号 P438)
+- 西澤誠也, 島伸一郎, Manhal Alhilali, Anu Gupta, _河合佑太_, 足立幸穂, 伊藤純至, 佐藤陽祐, 宮本佳明: 気象現象の蓋然性推定のための数値モデル誤差低減, 第12回「富岳」を中核とするHPCI システム利用研究課題成果報告会, 2025 年 10 月 23-24 日
 - _河合佑太_, 西澤誠也, 富田浩文, 2025: 不連続ガラーキン法に基づく全球力学コアと物理過程の結合: 湿潤 Held-Suarez 実験によるテスト計算, 第 11 回マッデン・ジュリアン振動研究会, 2025 年 9 月 26 日
 - _河合佑太_, 西澤誠也, 富田浩文, 2025: 不連続 Galerkin 法を用いた全球大気力学コアへの湿潤過程の導入と湿潤 Held-Suarez テストによる検証, 日本地球惑星科学連合 2025 年大会, 2025 年 5 月 27 日 (講演番号 MGI30-P05)
 
