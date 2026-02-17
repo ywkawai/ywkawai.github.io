@@ -29,7 +29,7 @@
 - Hisashi Yashiro, Koji Terasaki, _Yuta Kawai_, Shuhei Kudo, Takemasa Miyoshi, Toshiyuki Imamura, Kazuo Minami, Hikaru Inoue, Tatsuo Nishiki, Takayuki Saji, Masaki Satoh, Hirofumi Tomita, 2020: A 1024-member ensemble data assimilation with 3.5-km mesh global weather simulations.  In 2020 SC20: International Conference for High Performance Computing, Networking, Storage and Analysis (SC) (pp. 1-10). IEEE Computer Society.
 
 ** 投稿中の論文
-- _Yuta Kawai_, Xuanzhengbo Ren, Seiya Nishizawa, Takahiro Katagiri, Hirofumi Tomita: Comparison of the computational advantages of high-order dynamical cores based on the discontinuous Galerkin method and a conventional finite-volume method in atmospheric turbulent simulations, submitted to JMSJ
+- _Yuta Kawai_, Xuanzhengbo Ren, Seiya Nishizawa, Takahiro Katagiri, Hirofumi Tomita: Comparison of computational advantages of high-order discontinuous Galerkin and conventional finite-volume dynamical cores in atmospheric turbulent simulations, submitted to JMSJ
 - Xuanzhengbo Ren, _Yuta Kawai_, Tetsuya Hoshino, Hirofumi Tomita, Takahiro Katagiri, Daichi Mukunoki, Seiya Nishizawa: Learning-Augmented Performance Model for Tensor Product Factorization in High-Order FEM, submitted to IEEE Access and under review
 
 ** 投稿準備の論文
