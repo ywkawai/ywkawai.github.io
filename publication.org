@@ -23,6 +23,7 @@
 - _Yuta Kawai_ and Hirofumi Tomita, 2021: Numerical Accuracy of Advection Scheme necessary for Large-Eddy Simulation of Planetary Boundary Layer Turbulence, Monthly Weather Review, 149, 9.
 
 ** 共著論文
+- Xuanzhengbo Ren, _Yuta Kawai_, Tetsuya Hoshino, Hirofumi Tomita, Takahiro Katagiri, Daichi Mukunoki, Seiya Nishizawa, 2026: Learning-Augmented Performance Model for Tensor Product Factorization in High-Order FEM, IEEE Access (accepted)
 - Xuanzhengbo Ren, _Yuta Kawai_, Hirofumi Tomita, Seiya Nishizawa, Takahiro Katagiri, Tetsuya Hoshino, Daichi Mukunoki, Masatoshi Kawai, Toru Nagai, 2025: Performance Evaluation of Loop Body Splitting for Fast Modal Filtering in SCALE-DG on A64FX, Proceedings of the 2025 International Conference on High Performance Computing in Asia-Pacific Region Workshops (pp. 36-44)
 - Hiroaki Miura, Tamaki Suematsu, _Yuta Kawai_, Yoko Yamagami, Daisuke Takasuka, Yuki Takano, Ching-Shu Hung, Kazuya Yamazaki, Chihiro Kodama, Yoshiyuki Kajikawa, and Yukio Masumoto, 2023: Asymptotic matching between weather and climate models, Bulletin of the American Meteorological Society, 104, E2308-E2315. 
 - Masaki Ishiwatari, Kensuke Nakajima, Shin-ichi Takehiro, Yoshi-Yuki Hayashi, _Yuta Kawai_, Yoshiyuki O. Takahashi, 2021: Revision of “Dependence of climate states of gray atmosphere on solar constant: From the runaway greenhouse to the snowball state" by Ishiwatari et al. (2007), Journal of Geophysical Research: Atmospheres, 126, e2019JD031761.
@@ -30,7 +31,6 @@
 
 ** 投稿中の論文
 - _Yuta Kawai_, Xuanzhengbo Ren, Seiya Nishizawa, Takahiro Katagiri, Hirofumi Tomita: Comparison of computational advantages of high-order discontinuous Galerkin and conventional finite-volume dynamical cores in atmospheric turbulent simulations, submitted to JMSJ
-- Xuanzhengbo Ren, _Yuta Kawai_, Tetsuya Hoshino, Hirofumi Tomita, Takahiro Katagiri, Daichi Mukunoki, Seiya Nishizawa: Learning-Augmented Performance Model for Tensor Product Factorization in High-Order FEM, submitted to IEEE Access and under review
 
 ** 投稿準備の論文
 - _Yuta Kawai_, Yoshiyuki O. Takahashi, Masaki Ishiwatari, Kensuke Nakajima, Shin-ichi Takehiro, Hiroki Kashimura, Hirofumi Tomita, Yoshi-Yuki Hayashi: Solar constant dependence of climate states of an ocean planet with gray atmosphere: Effects of heat capacity and heat transport of the ocean, in preparation 
@@ -38,6 +38,7 @@
 
 * 学会発表, 研究発表
 ** 2025 年度
+- _河合佑太_, 任軒正博, 西澤誠也, 片桐孝洋, 富田浩文, 2026: 富岳 Next に向けた SCALE-DG の計算コードの課題, 富岳NEXT気象・気候分野 関係者意見交換会, 2026 年 3 月 26 日
 - Nishizawa, S., Adachi, A., S., _Kawai, Y._, Kaman, K., Sato, Y., Yamaura, T., Yamazaki, K, 2026: OpenACC-based GPU acceleration for the SCALE atmospheric model: status and challenges, OpenACC User Workshop at SCA/HPCAsia 2026, 26th January, 2026
 - _Kawai, Y._, Ren, X., Nishizawa, S., Katagiri, T., Tomita, 2025: Consideration on computational advantages of a high-order dynamical core based on the discontinuous Galerkin method in atmospheric turbulent simulations, AGU25 Annual Meeting, 18th December, 2025
 - _河合佑太_, 西澤誠也, 富田浩文, 2025: 不連続ガラーキン法に基づく全球力学コアを用いた湿潤 Held-Suarez 実験: 力学-物理過程の結合手法に関する初期的検証, 日本気象学会 2025 年度秋季大会, 2025 年 11 月 5 日 (講演番号 A203)
