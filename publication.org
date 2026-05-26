@@ -37,6 +37,9 @@
 
 
 * 学会発表, 研究発表
+** 2026 年度
+- _Kawai, Y._, Ren, X., Nishizawa, S., Katagiri, T., Tomita, 2026: Evaluating computational cost of high-order atmospheric dynamical cores based on effective resolution: A comparison of discontinuous Galerkin and conventional finite-volume methods, JpGU-AGU joint MTG 2026, 26th May, 2026 (invited) 
+
 ** 2025 年度
 - _河合佑太_, 任軒正博, 西澤誠也, 片桐孝洋, 富田浩文, 2026: 富岳 Next に向けた SCALE-DG の計算コードの課題, 富岳NEXT気象・気候分野 関係者意見交換会, 2026 年 3 月 26 日
 - Nishizawa, S., Adachi, A., S., _Kawai, Y._, Kaman, K., Sato, Y., Yamaura, T., Yamazaki, K, 2026: OpenACC-based GPU acceleration for the SCALE atmospheric model: status and challenges, OpenACC User Workshop at SCA/HPCAsia 2026, 26th January, 2026
