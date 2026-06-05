@@ -18,7 +18,7 @@
 * 原著論文
 
 ** 筆頭論文 
-- _Yuta Kawai_, Xuanzhengbo Ren, Seiya Nishizawa, Takahiro Katagiri, Hirofumi Tomita, 2026: Comparison of computational advantages of high-order discontinuous Galerkin and conventional finite-volume dynamical cores in atmospheric turbulent simulations, Journal of the Meteorological Society of Japan (accepted)
+- _Yuta Kawai_, Xuanzhengbo Ren, Seiya Nishizawa, Takahiro Katagiri, Hirofumi Tomita, 2026: Comparison of computational advantages of high-order discontinuous Galerkin and conventional finite-volume dynamical cores in atmospheric turbulent simulations, Journal of the Meteorological Society of Japan, 104, 20.
 - _Yuta Kawai_ and Hirofumi Tomita, 2025: Development of a high-order global dynamical core using the discontinuous Galerkin method for an atmospheric large-eddy simulation (LES) and proposal of test cases: SCALE-DG v0.8.0, Geoscientific Model Development, 18, 725-762.
 - _Yuta Kawai_, Hirofumi Tomita, 2023:  Numerical Accuracy Necessary for Large-Eddy Simulation of Planetary Boundary Layer Turbulence using Discontinuous Galerkin Method, Monthly Weather Review, 151, 6.
 - _Yuta Kawai_ and Hirofumi Tomita, 2021: Numerical Accuracy of Advection Scheme necessary for Large-Eddy Simulation of Planetary Boundary Layer Turbulence, Monthly Weather Review, 149, 9.
