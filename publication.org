@@ -20,10 +20,11 @@
 ** 筆頭論文 
 - _Yuta Kawai_, Xuanzhengbo Ren, Seiya Nishizawa, Takahiro Katagiri, Hirofumi Tomita, 2026: Comparison of computational advantages of high-order discontinuous Galerkin and conventional finite-volume dynamical cores in atmospheric turbulent simulations, Journal of the Meteorological Society of Japan, 104, 20.
 - _Yuta Kawai_ and Hirofumi Tomita, 2025: Development of a high-order global dynamical core using the discontinuous Galerkin method for an atmospheric large-eddy simulation (LES) and proposal of test cases: SCALE-DG v0.8.0, Geoscientific Model Development, 18, 725-762.
-- _Yuta Kawai_, Hirofumi Tomita, 2023:  Numerical Accuracy Necessary for Large-Eddy Simulation of Planetary Boundary Layer Turbulence using Discontinuous Galerkin Method, Monthly Weather Review, 151, 6.
+- _Yuta Kawai_, Hirofumi Tomita, 2023: Numerical Accuracy Necessary for Large-Eddy Simulation of Planetary Boundary Layer Turbulence using Discontinuous Galerkin Method, Monthly Weather Review, 151, 6.
 - _Yuta Kawai_ and Hirofumi Tomita, 2021: Numerical Accuracy of Advection Scheme necessary for Large-Eddy Simulation of Planetary Boundary Layer Turbulence, Monthly Weather Review, 149, 9.
 
 ** 共著論文
+- Soma Asai, Yousuke Sato, Takeshi Iwashita, _Yuta Kawai_, Seiya Nishizawa, 2026: Multigrid Solver for a Bulk Lightning Model Coupled with a Meteorological Model with Terrain-Following Coordinates, International Conference on Computational Science, 3-18.
 - Xuanzhengbo Ren, _Yuta Kawai_, Tetsuya Hoshino, Hirofumi Tomita, Takahiro Katagiri, Daichi Mukunoki, Seiya Nishizawa, 2026: Learning-Augmented Performance Model for Tensor Product Factorization in High-Order FEM, IEEE Access, 14, 43679-43693.
 - Xuanzhengbo Ren, _Yuta Kawai_, Hirofumi Tomita, Seiya Nishizawa, Takahiro Katagiri, Tetsuya Hoshino, Daichi Mukunoki, Masatoshi Kawai, Toru Nagai, 2025: Performance Evaluation of Loop Body Splitting for Fast Modal Filtering in SCALE-DG on A64FX, Proceedings of the 2025 International Conference on High Performance Computing in Asia-Pacific Region Workshops (pp. 36-44)
 - Hiroaki Miura, Tamaki Suematsu, _Yuta Kawai_, Yoko Yamagami, Daisuke Takasuka, Yuki Takano, Ching-Shu Hung, Kazuya Yamazaki, Chihiro Kodama, Yoshiyuki Kajikawa, and Yukio Masumoto, 2023: Asymptotic matching between weather and climate models, Bulletin of the American Meteorological Society, 104, E2308-E2315. 
@@ -38,6 +39,8 @@
 
 * 学会発表, 研究発表
 ** 2026 年度
+-  _河合佑太_, 西澤誠也, 富田浩文, 2026: 不連続ガラーキン法に基づく大気モデルにおける力学-物理過程結合: 物理過程強制の粗視化スケールと要素内非一様性 , 日本気象学会 2026 年度秋季大会, 2026 年 10 月 28 日 (講演番号 D309)
+- Asai, S., Sato, Iwashita, T.,  _Kawai, Y._, Nishizawa, S., 2026: Multigrid Solver for a Bulk Lightning Model Coupled with a Meteorological Model with Terrain-Following Coordinates, International Conference on Computational Science
 - _Kawai, Y._, Ren, X., Nishizawa, S., Katagiri, T., Tomita, 2026: Evaluating computational cost of high-order atmospheric dynamical cores based on effective resolution: A comparison of discontinuous Galerkin and conventional finite-volume methods, JpGU-AGU joint MTG 2026, 26th May, 2026 (invited) 
 
 ** 2025 年度
